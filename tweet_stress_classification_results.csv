@@ -1,28 +1,39 @@
 text,cleaned_text,label,similarity_score,created_at,user_id
 Growtopia membuat saya ingin bunuh diri,growtopia membuat saya ingin bunuh diri,stres,0.9381082,Sat May 24 08:44:10 +0000 2025,1915962316820275200
-Dimasak ekonomi,dimasak ekonomi,stres,0.7144115,Sat May 24 01:12:46 +0000 2025,1915962316820275200
-Kepala saya sakit,kepala saya sakit,stres,0.8608196,Fri May 23 23:48:27 +0000 2025,1915962316820275200
+Server gt mati aja,server gt mati aja,tidak_stres,0.9198668,Sat May 24 04:06:00 +0000 2025,1915962316820275200
+Dimasak ekonomi,dimasak ekonomi,tidak_stres,0.7367716,Sat May 24 01:12:46 +0000 2025,1915962316820275200
+Kepala saya sakit,kepala saya sakit,tidak_stres,0.8667602,Fri May 23 23:48:27 +0000 2025,1915962316820275200
+Ya allah pengen mati aja,ya allah pengen mati aja,stres,0.919933,Wed May 21 08:45:35 +0000 2025,1915962316820275200
 Yh gwe terakhiran keluar pas mtk tp gpp ttp berserah diri kepada Tuhan dn berusaha,yh gwe terakhiran keluar pas mtk tp gpp ttp berserah diri kepada tuhan dn berusaha,stres,0.88201535,Mon May 19 02:35:22 +0000 2025,1915962316820275200
-Habis mandi tuh berasa suci,habis mandi tuh berasa suci,stres,0.9019901,Thu May 15 10:38:28 +0000 2025,1915962316820275200
-SWEET INSOMNIA,sweet insomnia,stres,0.6786754,Wed May 14 16:32:40 +0000 2025,1915962316820275200
-Insomnia,insomnia,stres,0.75645876,Wed May 14 16:32:32 +0000 2025,1915962316820275200
-Gabisa tidur,gabisa tidur,stres,0.8305664,Wed May 14 16:32:25 +0000 2025,1915962316820275200
+Mtk bikin mau mati,mtk bikin mau mati,stres,0.9045527,Sun May 18 16:24:45 +0000 2025,1915962316820275200
+PLS INI TUGAS MATEMATIKA BANYAK BANGET ANJENKKK,pls ini tugas matematika banyak banget anjenkkk,tidak_stres,0.89078665,Sat May 17 14:41:04 +0000 2025,1915962316820275200
+Habis mandi tuh berasa suci,habis mandi tuh berasa suci,tidak_stres,0.90263665,Thu May 15 10:38:28 +0000 2025,1915962316820275200
+SWEET INSOMNIA,sweet insomnia,tidak_stres,0.69830126,Wed May 14 16:32:40 +0000 2025,1915962316820275200
+Insomnia,insomnia,tidak_stres,0.78287715,Wed May 14 16:32:32 +0000 2025,1915962316820275200
+Gabisa tidur,gabisa tidur,stres,0.90139335,Wed May 14 16:32:25 +0000 2025,1915962316820275200
+Ketikan saya ingin hidup sehat teman teman saya malah mau mati,ketikan saya ingin hidup sehat teman teman saya malah mau mati,stres,0.90184975,Wed May 14 14:40:28 +0000 2025,1915962316820275200
+Ketika saya mau mati teman teman saya malah ingin hidup sehat,ketika saya mau mati teman teman saya malah ingin hidup sehat,stres,0.9136585,Wed May 14 14:40:07 +0000 2025,1915962316820275200
 Mau bulking tapi malah takut jd fatty ,mau bulking tapi malah takut jd fatty,stres,0.9247377,Tue May 13 11:05:34 +0000 2025,1915962316820275200
 PUSING BANGET PLS,pusing banget pls,stres,0.6899842,Tue May 13 11:04:25 +0000 2025,1915962316820275200
 Anak gajah meninggal sedih banget mau nangis,anak gajah meninggal sedih banget mau nangis,stres,0.926372,Mon May 12 15:12:36 +0000 2025,1915962316820275200
 Stress banget banyak tugas pls,stress banget banyak tugas pls,stres,0.81069446,Sun May 11 00:39:01 +0000 2025,1915962316820275200
-Capek,capek,stres,0.7418269,Sat May 10 12:12:33 +0000 2025,1915962316820275200
-Masnya tadi ngerasa salah jurusan gada relasi dll Tp dia bisa nyari relasi ke dpr buat minta beasiswa like WHATT wow keren,masnya tadi ngerasa salah jurusan gada relasi dll tp dia bisa nyari relasi ke dpr buat minta beasiswa like whatt wow keren,tidak_stres,0.8497818,Fri May 09 11:39:00 +0000 2025,1915962316820275200
-AKU SUKA AYAM GEPREK TP TD BERLEBIHAN ANJING pke anjing biar msk depresi,aku suka ayam geprek tp td berlebihan anjing pke anjing biar msk depresi,tidak_stres,0.81192696,Mon May 05 14:29:00 +0000 2025,1915962316820275200
+Capek,capek,stres,0.82547134,Sat May 10 12:12:33 +0000 2025,1915962316820275200
+Masnya tadi ngerasa salah jurusan gada relasi dll Tp dia bisa nyari relasi ke dpr buat minta beasiswa like WHATT wow keren,masnya tadi ngerasa salah jurusan gada relasi dll tp dia bisa nyari relasi ke dpr buat minta beasiswa like whatt wow keren,tidak_stres,0.8579111,Fri May 09 11:39:00 +0000 2025,1915962316820275200
+Capeq,capeq,stres,0.84581685,Tue May 06 07:51:21 +0000 2025,1915962316820275200
+AKU SUKA AYAM GEPREK TP TD BERLEBIHAN ANJING pke anjing biar msk depresi,aku suka ayam geprek tp td berlebihan anjing pke anjing biar msk depresi,tidak_stres,0.819776,Mon May 05 14:29:00 +0000 2025,1915962316820275200
+Sejarah mati aja pls,sejarah mati aja pls,stres,0.78294563,Mon May 05 05:27:31 +0000 2025,1915962316820275200
 CAPEKKNYA BANYAK BTL TUGAS,capekknya banyak btl tugas,stres,0.8965906,Sun May 04 15:30:52 +0000 2025,1915962316820275200
-CAPEK,capek,stres,0.7418269,Sun May 04 05:12:44 +0000 2025,1915962316820275200
-MAU MATI AJA RASANYA,mau mati aja rasanya,stres,0.8372605,Sat May 03 01:23:59 +0000 2025,1915962316820275200
+CAPEK,capek,stres,0.82547134,Sun May 04 05:12:44 +0000 2025,1915962316820275200
+APASIH INI BANYAK BETUL DETAIL KECIL YG G DIMAU CAPEQ EXPORT BERKALI KALI,apasih ini banyak betul detail kecil yg g dimau capeq export berkali kali,stres,0.91255,Sat May 03 07:30:26 +0000 2025,1915962316820275200
+MAU MATI AJA RASANYA,mau mati aja rasanya,stres,0.9253425,Sat May 03 01:23:59 +0000 2025,1915962316820275200
 Males banget maksa jalan terus anjajjajaj,males banget maksa jalan terus anjajjajaj,stres,0.90062666,Fri May 02 11:41:31 +0000 2025,1915962316820275200
 Capek kita usahakan keluar dari negara anti homoseks ini,capek kita usahakan keluar dari negara anti homoseks ini,stres,0.8674748,Wed Apr 30 09:33:58 +0000 2025,1915962316820275200
 TANGAN GWE SAKIT BGT,tangan gwe sakit bgt,stres,0.89739865,Tue Apr 29 15:02:05 +0000 2025,1915962316820275200
-Capek,capek,stres,0.7418269,Tue Apr 29 13:00:43 +0000 2025,1915962316820275200
-Capek,capek,stres,0.7418269,Sun Apr 27 12:41:42 +0000 2025,1915962316820275200
+Capek,capek,stres,0.82547134,Tue Apr 29 13:00:43 +0000 2025,1915962316820275200
+Capek,capek,stres,0.82547134,Sun Apr 27 12:41:42 +0000 2025,1915962316820275200
+Mati lampu ppk,mati lampu ppk,stres,0.65165174,Sun Apr 27 07:19:47 +0000 2025,1915962316820275200
 Lelah dengan kehidupan mau mati ,lelah dengan kehidupan mau mati,stres,0.9242536,Sat Apr 26 14:46:45 +0000 2025,1915962316820275200
-Ngerasa ga hidup,ngerasa ga hidup,stres,0.8753716,Sat Apr 26 14:28:35 +0000 2025,1915962316820275200
+CAPEEEEEEK,capeeeeeek,tidak_stres,0.8373542,Sat Apr 26 14:28:44 +0000 2025,1915962316820275200
+Ngerasa ga hidup,ngerasa ga hidup,stres,0.90259725,Sat Apr 26 14:28:35 +0000 2025,1915962316820275200
 Kalo malem sama kalo biasa aja biasanya sih begini. Jujur kalo redup gitu ngeliat semua foto hd banget https://t.co/6cSKa75bjD,kalo malem sama kalo biasa aja biasanya sih begini jujur kalo redup gitu ngeliat semua foto hd banget,stres,0.91282785,Sat Apr 26 09:11:37 +0000 2025,1915962316820275200
 Takut banget besok udah real performance,takut banget besok udah real performance,stres,0.8697591,Sat Apr 26 09:06:43 +0000 2025,1915962316820275200
