@@ -56,20 +56,19 @@ if st.button("🔍 Analisis Tweet"):
         # Jalankan analisis
         with st.spinner("Menganalisis stres..."):
             subprocess.run([
-                "jupyter", "nbconvert", "--to", "notebook", "--execute",
-                "analysis.ipynb", "--output", "executed_analysis.ipynb"
+                "python", "classify_tweets.py"
             ])
 
         # --- Baca CSV Hasil ---
         try:
-            df = pd.read_csv("tweet_stress_classification_results.csv")
+            df = pd.read_csv("hasil/hasil_analisis.csv")
 
             st.success("✅ Analisis selesai!")
 
             # Tampilkan tabel tweet dan hasilnya
             st.subheader("📋 Tabel Hasil Deteksi")
-            st.dataframe(df[["text", "label", "similarity_score"]].rename(columns={
-                "text": "Tweet",
+            st.dataframe(df[["clean_text", "label", "similarity_score"]].rename(columns={
+                "clean_text": "Tweet",
                 "label": "Hasil",
                 "similarity_score": "Similarity"
             }))
