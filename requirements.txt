@@ -1,6 +1,5 @@
-flask
+streamlit
 pandas
 scikit-learn
-jupyter
 torch
-matplotlib
+flask
