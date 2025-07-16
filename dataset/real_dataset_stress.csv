@@ -1,4 +1,4 @@
-text,kategori
+text,label
 mau mati aja,stres
 kenapa harus berusaha waktu kesepian,stres
 kenapa harus ngerjain tugas waktu tekanan hidup,stres
@@ -249,253 +249,1373 @@ udah ngerjain tugas tapi tetap beban pikiran,stres
 beneran gak kuat lagi buat nangis,stres
 udah berusaha tapi tetap tekanan hidup,stres
 udah pasrah banget sama hidup ini,stres
-waaa nilai bagus bisa masuk kedokteran nih,tidak_stres
-seru banget waktu makan enak sama kopi pagi,tidak_stres
-seru banget waktu nulis nugas sama pelajaran baru,tidak_stres
-lucu liat temen takut sama kecoa,tidak_stres
-hari ini dibonceng sama crush hehe,tidak_stres
-rasanya pengen jalan-jalan,tidak_stres
-mati lampu kesel deh,tidak_stres
-aku tidur nyenyak semalam,tidak_stres
-tiap hari semangat buat nulis nugas karena pemandangan indah,tidak_stres
-tiap hari semangat buat makan enak karena liburan,tidak_stres
-seneng banget bisa chat seru bareng momen kecil,tidak_stres
-nyaman rasanya bisa ngopi santai di tengah pemandangan indah,tidak_stres
-lucu banget temen ku kena razia rambut,tidak_stres
-nyaman rasanya bisa belajar di tengah keluarga,tidak_stres
-aku bersyukur bisa terus membaca buku walau liburan,tidak_stres
-rasanya pengen nongkrong pas lagi hari minggu,tidak_stres
-pengen jadi orang sukses,tidak_stres
-penuh energi tiap kali main game setelah hari minggu,tidak_stres
-penuh energi tiap kali belajar setelah keluarga,tidak_stres
-aku nulis nugas karena pemandangan indah,tidak_stres
-tiap hari semangat buat main game karena kopi pagi,tidak_stres
-aku bersyukur bisa terus ngopi santai walau cuaca cerah,tidak_stres
-seneng banget bisa nonton film bareng keluarga,tidak_stres
-gak sabar mau ngopi santai sama cuaca cerah,tidak_stres
-penuh energi tiap kali dengerin musik setelah keluarga,tidak_stres
-seru banget waktu nongkrong sama teman-teman,tidak_stres
-aku bersyukur bisa terus makan enak walau musik favorit,tidak_stres
-seru banget waktu nongkrong sama kopi pagi,tidak_stres
-penuh energi tiap kali nonton film setelah keluarga,tidak_stres
-aku bersyukur bisa terus dengerin musik walau kopi pagi,tidak_stres
-rasanya pengen makan enak pas lagi hewan peliharaan,tidak_stres
-seru banget waktu nulis nugas sama suasana sekolah,tidak_stres
-tiap hari semangat buat ketawa karena liburan,tidak_stres
-gak sabar mau nonton film sama hewan peliharaan,tidak_stres
-seru banget waktu ketawa sama hewan peliharaan,tidak_stres
-tiap hari semangat buat nulis nugas karena teman-teman,tidak_stres
-penuh energi tiap kali membaca buku setelah hewan peliharaan,tidak_stres
-main game sampe lupa waktu wkwk dan sekarang ngantuk banget,tidak_stres
-penuh energi tiap kali ngopi santai setelah keluarga,tidak_stres
-penuh energi tiap kali nulis nugas setelah cuaca cerah,tidak_stres
-seru banget waktu membaca buku sama pelajaran baru,tidak_stres
-setiap ambil wudhu jadi segar dan suci,tidak_stres
-nyaman rasanya bisa ngopi santai di tengah keluarga,tidak_stres
-gak sabar mau berbagi cerita sama pemandangan indah,tidak_stres
-aku bersyukur bisa terus nulis nugas walau pemandangan indah,tidak_stres
-aku jalan-jalan karena suasana sekolah,tidak_stres
-seneng banget bisa berbagi cerita bareng momen kecil,tidak_stres
-nyaman rasanya bisa nonton film di tengah pelajaran baru,tidak_stres
-seru banget waktu ngopi santai sama suasana sekolah,tidak_stres
-aku bersyukur bisa terus nulis nugas walau hari minggu,tidak_stres
-rasanya pengen berbagi cerita pas lagi senyum orang tersayang,tidak_stres
-aku bersyukur bisa terus nonton film walau hewan peliharaan,tidak_stres
-gak sabar mau olahraga sama kopi pagi,tidak_stres
-aku bersyukur bisa terus belajar walau musik favorit,tidak_stres
-seneng banget bisa main game bareng hari minggu,tidak_stres
-aku bersyukur bisa terus belajar walau hari minggu,tidak_stres
-aku main game karena momen kecil,tidak_stres
-gak sabar mau nonton film sama liburan,tidak_stres
-aku bersyukur bisa terus nonton film walau teman-teman,tidak_stres
-aku olahraga karena pemandangan indah,tidak_stres
-seneng banget bisa nongkrong bareng suasana sekolah,tidak_stres
-seneng banget bisa dengerin musik bareng keluarga,tidak_stres
-nyaman rasanya bisa nulis nugas di tengah liburan,tidak_stres
-aku bersyukur bisa terus olahraga walau musik favorit,tidak_stres
-penuh energi tiap kali nulis nugas setelah senyum orang tersayang,tidak_stres
-nyaman rasanya bisa belajar di tengah pemandangan indah,tidak_stres
-seru banget waktu nongkrong sama pelajaran baru,tidak_stres
-tiap hari semangat buat belajar karena senyum orang tersayang,tidak_stres
-aku bersyukur bisa terus bikin konten walau cuaca cerah,tidak_stres
-tiap hari semangat buat makan enak karena pelajaran baru,tidak_stres
-stress dia ganteng banget,tidak_stres
-waaa pengikut akun ku banyak,tidak_stres
-seneng banget bisa nulis nugas bareng hewan peliharaan,tidak_stres
-seneng banget bisa nongkrong bareng momen kecil,tidak_stres
-penuh energi tiap kali makan enak setelah suasana sekolah,tidak_stres
-nyaman rasanya bisa belajar di tengah pelajaran baru,tidak_stres
-mimpi dapet duit udah seneng tapi kecewa pas bangun tidur,tidak_stres
-seneng tadi nyanyi bareng temen,tidak_stres
-gak sabar mau olahraga sama musik favorit,tidak_stres
-seneng banget bisa berbagi cerita bareng keluarga,tidak_stres
-rasanya pengen makan enak pas lagi momen kecil,tidak_stres
-yey punya hp baru,tidak_stres
-nyaman rasanya bisa belajar di tengah momen kecil,tidak_stres
-aku berbagi cerita karena keluarga,tidak_stres
-aku nonton film karena pelajaran baru,tidak_stres
-aku belajar karena momen kecil,tidak_stres
-penuh energi tiap kali dengerin musik setelah pemandangan indah,tidak_stres
-kocak dah kamar jadi berantakan,tidak_stres
-aku bersyukur bisa terus dengerin musik walau momen kecil,tidak_stres
-gak sabar mau dengerin musik sama hewan peliharaan,tidak_stres
-gak sabar mau jalan-jalan sama cuaca cerah,tidak_stres
-yay bisa denger lagu baru artis yang kusuka,tidak_stres
-sakit perut ketawa terus,tidak_stres
-pusing dia cantik banget,tidak_stres
-tiap hari semangat buat ketawa karena hari minggu,tidak_stres
-gak sabar mau ketawa sama keluarga,tidak_stres
-nyaman rasanya bisa ketawa di tengah hewan peliharaan,tidak_stres
-seru banget waktu olahraga sama liburan,tidak_stres
-penuh energi tiap kali belajar setelah pemandangan indah,tidak_stres
-penuh energi tiap kali belajar setelah kopi pagi,tidak_stres
-rasanya pengen jalan-jalan pas lagi momen kecil,tidak_stres
-nyaman rasanya bisa berbagi cerita di tengah suasana sekolah,tidak_stres
-nyaman rasanya bisa membaca buku di tengah musik favorit,tidak_stres
-rasanya pengen nonton film pas lagi pemandangan indah,tidak_stres
-nyaman rasanya bisa ngopi santai di tengah hewan peliharaan,tidak_stres
-seneng banget bisa ngopi santai bareng kopi pagi,tidak_stres
-aku main game karena senyum orang tersayang,tidak_stres
-gak sabar mau jalan-jalan sama suasana sekolah,tidak_stres
-aku makan enak karena liburan,tidak_stres
-tiap hari semangat buat makan enak karena hewan peliharaan,tidak_stres
-penuh energi tiap kali makan enak setelah momen kecil,tidak_stres
-rasanya pengen nonton film pas lagi cuaca cerah,tidak_stres
-kaget kirain kesiangan padahal hari minggu,tidak_stres
-nyaman rasanya bisa dengerin musik di tengah suasana sekolah,tidak_stres
-aku ngopi santai karena musik favorit,tidak_stres
-seru banget waktu ngopi santai sama pemandangan indah,tidak_stres
-seru banget waktu chat seru sama momen kecil,tidak_stres
-penuh energi tiap kali jalan-jalan setelah pelajaran baru,tidak_stres
-tiap hari semangat buat nongkrong karena kopi pagi,tidak_stres
-seneng banget bisa dengerin musik bareng senyum orang tersayang,tidak_stres
-seru banget waktu ketawa sama pelajaran baru,tidak_stres
-panik banget tadi aku kira hp aku ilang wkwkwk,tidak_stres
-seneng banget bisa belajar bareng pelajaran baru,tidak_stres
-lupa ada pr untung bisa ngerjain pagi pagi,tidak_stres
-gak sabar mau ketawa sama musik favorit,tidak_stres
-seru banget waktu makan enak sama pelajaran baru,tidak_stres
-aku bersyukur bisa terus chat seru walau hewan peliharaan,tidak_stres
-rasanya pengen berbagi cerita pas lagi teman-teman,tidak_stres
-haduh kenapa kucing ku lucu banget,tidak_stres
-tiap hari semangat buat berbagi cerita karena hari minggu,tidak_stres
-rasanya pengen ketawa pas lagi cuaca cerah,tidak_stres
-aku bersyukur bisa terus jalan-jalan walau teman-teman,tidak_stres
-nyaman rasanya bisa olahraga di tengah musik favorit,tidak_stres
-penuh energi tiap kali olahraga setelah kopi pagi,tidak_stres
-seneng banget bisa main game bareng pemandangan indah,tidak_stres
-nyaman rasanya bisa berbagi cerita di tengah liburan,tidak_stres
-seneng banget bisa belajar bareng keluarga,tidak_stres
-nyaman rasanya bisa jalan-jalan di tengah suasana sekolah,tidak_stres
-seru banget waktu olahraga sama teman-teman,tidak_stres
-cape ketawa dia akting nya bener kaya orang gila,tidak_stres
-seru banget waktu membaca buku sama kopi pagi,tidak_stres
-orang gila mikir gasih kalo dia gila,tidak_stres
-seru banget waktu berbagi cerita sama teman-teman,tidak_stres
-cape tapi seru tadi joging sama temen,tidak_stres
-gak sabar mau berbagi cerita sama hari minggu,tidak_stres
-gak sabar mau main game sama hari minggu,tidak_stres
-seneng banget bisa dengerin musik bareng hari minggu,tidak_stres
-yeah sudah tidak ada tugas saatnya scroll twitter,tidak_stres
-aku gak takut mencoba hal baru,tidak_stres
-gak sabar mau berbagi cerita sama suasana sekolah,tidak_stres
-tiap hari semangat buat membaca buku karena cuaca cerah,tidak_stres
-penuh energi tiap kali chat seru setelah momen kecil,tidak_stres
-gak sabar mau jalan-jalan sama teman-teman,tidak_stres
-tiap hari semangat buat jalan-jalan karena pelajaran baru,tidak_stres
-rasanya pengen ngopi santai pas lagi momen kecil,tidak_stres
-seneng banget bisa bikin konten bareng keluarga,tidak_stres
-nyaman rasanya bisa chat seru di tengah cuaca cerah,tidak_stres
-gak sabar mau belajar sama liburan,tidak_stres
-seneng banget bisa ketawa bareng teman-teman,tidak_stres
-tiap hari semangat buat ngopi santai karena senyum orang tersayang,tidak_stres
-nyaman rasanya bisa chat seru di tengah keluarga,tidak_stres
-tiap hari semangat buat ketawa karena momen kecil,tidak_stres
-seneng banget bisa nonton film bareng teman-teman,tidak_stres
-merencanakan liburan hehe,tidak_stres
+cape cape aku mikir review jurnal enggak kesimpen aku sedih banget,stres
+cape ih dipush buat nikah terus kaya apasiii aku kan masih anakanak mana calonnya juga kaga ada hilalnya mana bisa nikah lah,stres
+gua jg cape,stres
+abis utbk cape banget sumpah setelah makan langsung balik tidur berjamjam,stres
+pgn cutting cape jog trs pgn gym tapi aku takut memulai gada yg nemenin,stres
+masih pagii dah cape bukan cape tenaga,stres
+cape banget punya ortu ga supportif,stres
+ya allah cape banget jadi luke stan,stres
+moment whc byk bgt gw ampe cape rt rt mulu,stres
+mamahhhhhh capeeee mamah lebih cape kah,stres
+gue kemaren juga bikin skck di puterputerin terus sampe cape sendiri,stres
+gausah berlebihan deh bla bla bla  gila pola hidup pola tidur pola makannya jelek gitu masih bae maksain yang cape bukan cuma fisik psikis lu juga bakal kena stresss,stres
+cape bgt sama indihome,stres
+cape bgt smt akhir tu ternyata aku butuh support system,stres
+baru sadar beberapa hari ini cape bgt sampe ga mikirin dia ternyata bisa aja sih,stres
+bole ga si nangis triak gt asli pengen banget cape dibanding in mulu sama orang rumah dikira gue ga kerja apa ya gue juga uda gapernah minta duit lo biar gua jajan pas ngampus trkhir gua dpt uang jajan ya pas gua sma gua bangun jam siang krn gua tidurnya pagi mo nyerah,stres
+cape bgt keknya,stres
+belajar tapi lu cape apa yg masuk di otak anjirr gaada salah org istirahat trs menikmati apa yg mereka mau,stres
+kalo org lain belajar yaudah kyk focus aja ke diri lu sndiri butuh apa kalo emg lu punya tenaga dan stamina lakuin aja gaada salahnya tapi gaada salahnya juga lu istirahat kalo lu terus ngepush tapi lu cape pointless juga,stres
+gue cape bgt batukkkk mau garuk tenggorokan sendiri,stres
+cape banget aprilll,stres
+semua juga cape,stres
+lu ga liat sih org tua yg nangisin anaknya krn lu ga hadir di situ w jg cape ya ama kerjaan sendiri pengen tidur trs tiba² dilimpahin tgs yg harusnya bkn tanggungjawab w udh gada nurani gak cocok lu jd dokter anak,stres
+tugas udah yu stop yu kamu ga cape apa dateng terus aku cape ih ngerjainnya,stres
+gw udh gamau boong lagi lah co cape gw,stres
+tapi fakta dilapangan yang banyak kita liat sdm kita masih banyak yang belum mumpuni dan banyak dari sdm itu sendiri yang punya mental miskin maunya di suapin mulu kerja dikit cape maunya kerja instan tapi di gaji gede ntar ga dapat kerja dan ga ada duit nyalahin semesta,stres
+generasi media sosial saat ini adalah generasi yang terbiasa mengkonsumsi cocoklogi teori konspirasi jadi kalo ada fenomena politik yang tidak cocok dengan dengkul mereka langsung tuduh konsporasi maka selesai kasus tanpa harus cape berpikir banyak,stres
+gatau plis gue cape pengin nangis,stres
+update sumpah aku dh cape tunggu malah dpt kabar kek gini knp gk dri awal gitu lho,stres
+sumpah gw cape bgt apa ya,stres
+cape dikit,stres
+iya njay cape bgt mulung bnyk apk tapi ga win win bjil kupingnya sunpelan semua mengeluh dgn nada rendah,stres
+cape kali jelasinnya emosi gimana jelasinnya si biar dia paham,stres
+baru aja gue ngobrol ma remaja yang pengen tahu ttg kb bahwa berkb itu sebuah keputusan yang perlu dihormati ga boleh dipaksakan lah ini malah ada kebijakan yang tidak menghormati tubuh seseorang lewat kb cape,stres
+gibengin di org pls dr kmrn gw udh blg cape bgt,stres
+cuma dunia tp cape bgt ya,stres
+gua seburuk itu kali ya sampe selalu ditemuinnya kalo ga sama yg punya mental issues ya broken home padahal alhamdulillah keluarga gua baik tp kenapa ketemunya gini terus anjir cape gua bukan montir disuruh benerin orang mulu,stres
+jujur cape banget,stres
+cape gak sih dulu aku enjoy bgt stan all unit bisa hype kemana aja tapi makin kesini makin kesana udh agenshit kagak jelas subfandom toxic solo stan lebih gila lagi jadi males,stres
+cape  hari kurang tidur mau pulang ㅠㅠ,stres
+semoga dia masa stresnya udhn lah gue yg cape,stres
+hidup lg cape capenya malah sakit mata,stres
+masih pagi udah cape,stres
+cape bgt,stres
+aku udah cape jadi ga pernah skinkeran lagi minesnya gampang komedoan aja jerawat sesekali,stres
+cape gue trs yg minta maaf,stres
+cape bgt sm org yg ga responsible,stres
+real tapi penasaran bangettt pengen cepet juga gaksi cape anxious mulu huhu,stres
+ga ada yang larang cuma ngeluarin unek unek aja cape banget ketemu parkir pesawat brorinv,stres
+ya allah sungguh aku cape bgtt kuatin aku hari ini,stres
+cape bngt pliss,stres
+sampe cape bgt,stres
+cape kerja ihhh,stres
+gua cape bgt bener bener  energy toko seminggu ini rame banget ditambah libur diujung minggu kek gua cape pgn libur akh,stres
+cape bgt yallah,stres
+cape bgt,stres
+sukasuk dia istri pernah cape banget kerja w suruh resign dan dia mau eh nganggur sebulan doi malah bosen jadi irt yaa akhirnya kerja lagi wkwk,stres
+cape punya pikiran gapernah tenang,stres
+cape ngertiin trs pgn gantian di ngertiin,stres
+aku menjawab yaudah terserah mau gimana aku merasa siap jikalau ditinggalkan kesekian kalinya karena aku sudah benar benar cape aku tidak tau apakah dia bakal bertahan dengan sikapku ini aku sendiri sudah muak dengan sikapku,stres
+cape bgt kaya gini terus gada hubungan apa apa tapi ngerasa ada hubungan tiap hari ketemu seneng iya tapi kenapa tiap ada sesuatu yg ga cocok rasanya kesel sedih marah kenapa setiap dirasa itu dia selalu minta penjelasan kenapa kesel kenapa sedih kenapa marah,stres
+hdh cape bgt ama provider satu enih kek kl emg w make tuh ya tunjukin mana buktiny tampilin di historynya hhhhh bikin suudzon  emosi ae,stres
+baru ngebayangin aja udah cape bgt buat menghadapi hari ini,stres
+i know avoid gamau ky avoid but anxious juga ga mau terlalu menggebu kalo misalnya anxiousnya kambuh anxious juga cape jir kalo lagi kambuh dan ternyata tiba ngabarin lewat platform lain,stres
+cape banget dah,stres
+gila ai udah makin ngaco,stres
+wkwkwkwwk tambah tua malah tambah gila ya gapapa ira its normal,stres
+wallahiii gua gila kayanya gua gilaaaaaa,stres
+gila rasanya gw gak tidur semaleman gara gara pengen namatin manhwa yang ak baca skrang aku makin gak bisa tidur huhuhuhu apa apaan gantung bgt taaai,stres
+gue beneran bisa gila,stres
+gila emg spam bgt,stres
+gila babi kan,stres
+dah dapat lelaki baik bini pulak buat hal sial gila perempuan macam ni kau dah beranak amp dapat lelaki baik pun fikir nak curang,stres
+bisa gila,stres
+kalo org miskin beban ekonomi ya dibenerin aturan yg bikin miskin cth tertibin perusahaan yg ngasih batasan maksimal usia kerja bukan diilangin orangnya gila lagian duit negara yg keluar buat bansos sama potensi yg harusnya masuk gw yakin gedean yg terakhir,stres
+buset bisa gila udah,stres
+hati dan otak kau tu yg jijik get help to recover takut simpan lama jadi gila u still ada hope,stres
+gue bisa gila,stres
+ini klo pinggang hong di rangkul apa ga gila kita,stres
+mcm kes zulaia dulu tu je dok delulu sorg pastu family taknak responsible hantar pegi treatment kesian laki tu laa trauma bodo hadap org gila mcmni,stres
+makanya aneh banget minimallll oksigenn ajaaa ini ga ada apa apa dibiarin kejangg gila ya berobat dimanasih,stres
+dipikir lagi gua malu banget ngurusin hal begituan smpe jadi masalah jir kek bocil bngt beneran buang tenaga gila but at least aku enjoy dgn hidup ku yg sekarang aku bebas mw ngapain aj tanpa hrs mikirin org lain,stres
+kasian udh mulai gilamending periksa dah,stres
+gila padahal kalau nunggu bentaran lagi kayanya bisa dah dia pakai duit sendiri sayang banget padahal itu dikejar ga cuma  tahun,stres
+ah gila ya orang skripsian perkara typo setitik aja bisa diamuk sama dosbing dihhh kurang ajar,stres
+untuk saat ini aku lebih memegang whats yours will come to you instead of ill do this every day and night to change my fate karena tahun lalu aku berusaha dapetin jalur langit yang mana malah bikin aku kecewa sama tuhan sekarang aku mikirnya rezekian aja deh,stres
+april kenapa bikin kecewa ya hm,stres
+aku kecewa tp dlm posisi postf mikirny aah ternyta infonya blm nyampee nyampe jugaa dr hasil teriak kmrin tnyta gka nyampe sm siapapuun gak nyampeeee yg bgniii kog temboknya tinggi bgt lupakaaah atau gk tau sm sklii trus dsana mmg gk masif jd ya tenggelam,stres
+sebenarnya saya dah kecewa dan putus harap sama im dan im of im saya,stres
+kecewa gw,stres
+mohon maaf datengdateng langsung kecewa,stres
+nah ini you took the words outta my mouth makasih ye lbh ke takut sm pasangan kecewa sm gua grgr personality gua yg bs tbtb ajaib lmao takut aja bikin org makan hati grgr gua,stres
+guaaa di titik bnran nyisain ruang kecewa yang sangat besar kalo mereka bnr gk bakal bersuara dan trsan tutup mata,stres
+terus dari segi culture orang korea emang udah terbiasa makan mukidi sebagai camilan ibaratnya bahkan orang kismin disana pun sanggup beli mukidi sejujurnya aku kecewa banget apalagi doi paling nyaring yang menyuarakan soal kemanusiaan,stres
+satu lagi deh ini semua yg protes bukan karna dan bukan soal nut gw sama yg lain cuma ngerasa marah sedih kecewa karna lagi² est diperlakuin kekgitu,stres
+emang dah paling bener kalo ada masalah ya dipendem aja gak papa kok berusaha ikhlas aja gak bakalam dendam cuman kecewa aja tapi bakal diingat sampai kapanpun,stres
+kecewa berat wanjay,stres
+beneran gamau gw capek kecewa,stres
+me kecewa,stres
+dari kecewa marah kesel sedih sampe cape uda ga ada energi marah lg ke si kuning itu i just want my sn so i can sleep well tonight,stres
+kecewa sih,stres
+sejujurnya udah dari lama menurunkan ekspektasi tapi kenapa makin kesini malah makin dibikin kecewa,stres
+kecewa bgt padahal di wa begini,stres
+hai pembenci buangbuang energi percuma kalian si pembenci hatinya tersiksa terganggu kecewa dan sakit hati permanen,stres
+ni negara emang dikuasai oleh segelintir pihak saja mereka yang bukan golongannya akan merasa kecewa dikecewakan bahkan diperas hingga kering burung garuda yg kita banggakan itu terlihat kurus kering membawa perisai rusak yg bergelantungan di lehernya,stres
+ya allah kalau ini nggak keluar lagi warna sumpah kecewa berat asli nggak paham lagi,stres
+aileee sayaaang capek banget ya jadi caretaker gapapa kok ngeluh dan marah serta kecewa kamu udah ngelakuin sebisa kamu aku nggak bisa kasih katakata istimewa tapi aku harap semua kecewa dan lelah kamu berbuah karma manis untuk ke depannya peluk jauh ya sayang,stres
+gua smpe lupa caranya sedih sangking udh terbiasa nya ngerasa kecewa wkwkwk,stres
+jadi agak merasa bersalah asbun gini gak nyangka bakal banyak yang nanyain abang kecewa gak pas tau kalau itu asbun doang,stres
+bener deh kecewa banget,stres
+hobi juga  kecewa berat kurang kaya apa sih kalian ini terangterangan bgt iklanin produk boikot,stres
+kecewa brat,stres
+aku pernah membuat ibuku kecewa esoknya beliau tetap menyediakan sarapan untukku masih adakah cinta yang lebih tulus dari ibu,stres
+aku provasektomi sangat kecewa krna mulai dr skrg vasektomi akan dikaitkan dgn kebijakan jelek ini,stres
+huft kecewa,stres
+ingat jgn terlalu semangat jgn terlalu happy jgn terlalu percaya nanti cuma kecewa dan capek kl tidak sejalan,stres
+bocahnya emosian anjir bawel banget ceplas ceplos dan kerjaannya ngerusuhin orang tapi sekalinya kecewa dan marah langsung auto cut off orang dan anggep orangnya gak ada bahkan gak akan mau dengerin penjelasan apapun itu dari ybs,stres
+bila aku kecewa ni aku pilih tidur kerana tidur mengelakkan pertengkaran,stres
+udah cape juga trll percaya tuh takut kecewa,stres
+kecewa dahh,stres
+hari ini kecewa kesal dan marah,stres
+kecewa bgt,stres
+iy gitulah makanya ga tau deh kecewa,stres
+asli udah begini gadapet bansos agaknya ogut kecewa ya,stres
+hiks sedih bgt bayi ku tidak mau makan kalau tidak di suapin secara paksa hiks pdhl sebulan kemaren dia mam e banyak bgt hiks,stres
+iya mas saya pribadi sedih bgt harapan saya walaupun misalnya brgmnya tdk diperpanjang minimal prims masih bisa diakses mungkin dgn domain kementerian jg nggak apa lembaga boleh bubar tp peninggalan yg baik setidaknya jangan ikut hilang mestinya,stres
+sedih nya gamasupp ht hikss,stres
+sedih sekali,stres
+ah sedih kalau diceritain mah naon,stres
+hiks sedih banget,stres
+kok ak jd sedih hug uwu,stres
+sedih bgt tapi mungkin itu yg terbaik,stres
+kalau anda kenal wanita yang tanggung semua perbelanjaan keluarga dengari dia sokong dia jangan salahkan dia mungkin dia sedang buat yang terbaik dengan penuh perasaan sedih sunyi amp senyap,stres
+hoyo gw masi sedih y capitano lu gituin,stres
+terlalu banyak seharusnya saking nyeselnya aku gabisa rawat kamu dengan baik salah aku memang ga perhatian waktu  hari kamu muntah dan gamau makan aku bingung soalnya kamu emg gapulang kerumah mungkin kamu gamau kita sedih waktu liat kamu,stres
+brooo aku kalo sedih emg unconscious gt ya,stres
+sedih banget amnj,stres
+hah yg  deket juga ngebicarain kamu publicly cut off aja kareen kok ak yg sedih ya,stres
+sedih banget aku bakalan sedih tapi gapapah masi ada  orang gapapah,stres
+sedih bgt sumpah,stres
+sedih bgt plis,stres
+kalo gw sih asal jangan inter tapi ngeliat inter digituin sama teknologi gw jadi sedih,stres
+saking berharapnya kayanya jadi ga ngeuh merhatiin detail sedih,stres
+ehh yaallah sedih bgt,stres
+makin sedih aja,stres
+kenapaa yaa tiba tiba sedih,stres
+sedih banget,stres
+knp km syg sedih kenapa,stres
+orang ekonomi kebawah menggangap bercocok tanam itu sebagai hiburan kak sedih ya tp sayangnya ga sejalan sama kelahiran anak yang akhirnya gabisa dikontrol sementara yg udah settle pasti mikir biaya dan punya hiburan lain selain itu,stres
+hawooo km knp mukanya kek sedih bgtu ndud,stres
+sedih,stres
+bangunbangun nangis bahkan sampe skrng masih disenggol dikit emosinya langsung pengen nangis ga suka banget kyk gini masalahnya gue ga tau kenapa gue sedih kyknya perlu ke psikolog,stres
+kecewa sedih,stres
+sedih bgt kuas favorite gw ilang,stres
+mau bgt pls belakangan lg sedih bgt,stres
+sedih banget hari ini gak libur,stres
+subuh itu merasa bersalah kali ninggalin fuchsia yang lagi sakit di rumah sampe berpikir harusnya aku tu ga sekolah harusnya tu aku selalu di samping dia aku tu ibu yang egois sedih kali ga tau bilang selesai visite out of nowhere tiba aja konsulenku ngomong gini,stres
+terus solusinya apa bang jgn ikut sedih doang,stres
+kalo anak masih dibawah umur terutama dibawah  tahun jangan kasih kuasa penuh untuk megang gadget untuk menghindari hal seperti ini sedih banget masih sekolah dasar jadi korban pedofilia,stres
+sedih banget ya karena ambisi dia buat mencapai hal semu dengan di notice atau diingat idolnya dia jadi kehilangan masa depan cerah yang diidamkan banyak orang,stres
+sedih bestie di kantor pada menghilang,stres
+stres pagi buka x makin stres,stres
+di kantor stres karena atasan di kos stress gara tetangga kos tiap pagi anaknya  bertengkar mulu mana mereka ada pas libur doang,stres
+cuma stres yg gabisa gue handle tapi ironisnya malah stres yg jadi biang masalah dan munculin penyakit lain,stres
+idup lagi stresnya sama tuton liat ginian makin gelengkepala,stres
+stres yaampun gue acakacak nih bumi ya,stres
+stres bgt ya ngadepin org lbh tua tantrum penting emg buat biarin anak puas tantrum biar pas gede ga tantruman,stres
+ini gw di kantor kemaren anjink gw sampe kena lambung saking stres nya,stres
+gue mau pindah tapi malas juga pindah salah banget dah gue ini stres banget dah ini too personal anjg,stres
+stres bgt stresssssssss,stres
+stres banget drop jam segini y ily,stres
+riil sehari stres skripsi,stres
+stres bgt tp lg pms jg,stres
+rapat jam  subuh inimah bukan gabisa bangun tp belum tidur stres,stres
+gw udah stres kayanya,stres
+sudahi stres ini saatnya menjadi gila,stres
+info agara supaya kalo stres gak ngerusak jam tdr gmn ya ini gua dari kemaren cuma tdr  jam kurang,stres
+baru pulang dan ak melihat ini stres bangettt nghhhhh,stres
+lumayan stres jam an gw udah naik buat tidur tp abis itu hp gw kocak akhirnya turun gunung lagi dan ujungnya tidur pagi juga bangke,stres
+stres berat perkara pc anjir,stres
+punya hati yang sensitif itu ngak enak banget di bentak sedikit nangis lagi kesel nangis lagi marah nangis lagi panik dan stres nangis nonton film vt fyp sedih bisa tiba nangis apa nangis capek banget hidup lo nangisssssss mulu,stres
+fix gue lagi stres,stres
+tentang alpha tuh gini alpha tuh gitu syong stres sendiri ngehadapinnya belum lagi ortu nya yang ga beda jauh setiap dia ngelakuin kesalahan yang sebenarnya kecil banget orang orang langsung kaya kok kamu begini calon alpha gak seharusnya gini blablablabla,stres
+yadah lu paling tau cape ah gw dh stres malah di ajak debat buat ga mood,stres
+anjirrr stres,stres
+stres bgtt,stres
+stres banget anjing,stres
+bau bau bulan mei ni bakal stres berat,stres
+diem gweh stres bgt hrus hubungin instansinya sndiri,stres
+lg stres,stres
+serem banget jadi napi gegara kpop sesuai kemampuan aja plis gausah maksain diri apalagi nekat kipopan jangan dijadiin pencapaian karena bisa stres kalau gak kecapai jangan sampai kelilit hutang juga gk semua harus disamperin nanti ada rejekinya kalo gak ya hype aja cukup,stres
+adalah aku sampe kumat aslam gegara stres,stres
+tbh gatau harus bermindset kyk gimana lagi hseminggu pengumpulan stres bgt jir ga selesaiselesai,stres
+njir ada yang lebib stres ternyata,stres
+pernah gak sih lu kesel sampe buat kepala pusing kek gak bisa nangis tapi stres,stres
+balikiiiinn duit guaaaaaaaa semakin stres,stres
+terpantau makin malam makin stres,stres
+niatnya healing dari skripsi malah makin stres,stres
+ya allah gua stres bgt mikirin kajian advokasi ni nonton agz jam segini worth it gaaaa ya apa nambah stres scene penyelamatan,stres
+malem ini begadang lagi udah kopi kopi ketiga yg gua minum hari ini bener bener dah skripshit bikin stres berat,stres
+ya allah aku stres mau kerja tolong mudahkan udah muak banget ya allah sama keluargaku hidup terus di injak gak ada yang dukung,stres
+pdahal itu tulisan rill stres gw nulis itu otak gw lagi geser,stres
+lagu stres semua remed,stres
+mgkin gw doang yg stres,stres
+orgil stress aku,stres
+di kantor stres karena atasan di kos stress gara tetangga kos tiap pagi anaknya  bertengkar mulu mana mereka ada pas libur doang,stres
+harusnya dijadiin tempat buat ngilangin stress eh malah begini,stres
+stress koo org org enak bgt si kalo mau ngmng atau ngetik begini kaya misal mereka sendiri yg di sumpahin begitu allah g suka doa buruk gt doa buruk bisa berbalik kepada orang yang berdoa atau menjadi penyebab sakit hati dan dosa inget bang,stres
+lagian jadi akgae di caratland aja udah aneh kok bisanya gak mau sayang  member giliran biasnya wamil stress sendiri padahal enak dukung semua member jadi kalo bias wamil masih bisa support yg lain,stres
+banyak stress ama nangis,stres
+udah mulai stress,stres
+stress bgt,stres
+ya karna semua orang kebanyakan maksa cewek buat terima cowok apa adanya kocak malah nyalahin ceweknya stress lu,stres
+iyaaa ngilangin stress jugaa healing banget,stres
+lagi praktikum dapet data kayak gitu stress sihh diinterpolasi juga masih anomali,stres
+stress itu sudah tau kalah terus angkanya direkayasa biar menang,stres
+iyah ak kyknya stress bgt kemarin,stres
+yaudah sini lu jangan kayak orang stress gitu,stres
+gimana gak dimasukin tuh akun union union itu kan adminnya katanya dari indo stress emang fuck lu babai riu dan antek anteknya fuck,stres
+gmn ngilangin bekas gigitan nyamuk stress bgt gatel ga digaruk juga tapi malah bekas,stres
+stress banget anjing gueeeeeee dasar jwr,stres
+and stress fats yung sa loob ng pbb kaya pangit yung distribution ng fats,stres
+buset saking dikitnya umr indo sampe ngekpop dibela belain korupsi uang perusahaan stress stresss stresss bgt,stres
+coba cewek masa nifas blm habis aja udah diburu² kb pake spiral takut spiralnya pindah kemana² pake obat ma suntik hormonnya naik turun eh kelupaan dikit udah ketar ketir kalo telat mens stress sendiri,stres
+pantes orange indonesia penyakitnya anehaneh ga sih pemicu utama selain gaya hidup karena stress mau hidup bare minimum aja susahnya minta ampun masih digodain ancaman hidup dalam bayang militer tuntutan pemerintah pada tubuh sendiri dan segala penipuannya,stres
+punya bpk gitu banget stress gw,stres
+kalian pernah ga si punya adek yang teenager phase trs lagi nakalnakal nya serius in this economy lagi susahsusah nya cari kerja amp belum lulus kuliah ortu hampir kena layoff semua nya lagi stress tapi kelakuannya nambahnambahi stress dengan keluyuran ga tau waktu,stres
+serius fav aku malah stress setiap ada itu matkul belum ikutan foto dump waktu kuliah udah gak ada,stres
+bener ni orang semua stress skirpsian be like,stres
+stress gtu yaa apa gimnaa masa dah dapet lgi,stres
+dibuat stress mulu,stres
+stress bgtt krna  orang pacaran yg sluruh dunia hrus tau kemesraan mreka happy one monthsary,stres
+gausah trll maksain diri di fk y dek y tes utbk nya aja kln gk sanggup amp gk pede dgn kemampuan sndri gmn lg mau ngadepin ujian di kedokteran yg bs buat stress itu mending msk jurusan lain yg sekiranya msh mampu toh jg nnti pilihan kerjaan bakal lbh terbuka drpd fk,stres
+dulu aku kuliah nyambi kerja ikut organisasi ramuan cepat stress njir wkwkwkw,stres
+waktu skripsian dulu iya karena benerbener stress berat skrg udah kagak mending duitnya buat jajan atau ditabung buat beli sesuatu,stres
+terus itu kenapa kamu bisa tau aku stress,stres
+anjir stress semua stress,stres
+tj yg hot nak mampus tu kan aku sudah stress,stres
+all that s happening or not warranting me to be stress but i am not hahahahahaha terlalu bertenang atau terlalu gila apa nak jadi pun jadi lah,stres
+selain stress skripsi stress karena hal yang paling disukain itu nguras tenaga banget contoh simplenya adalah main valo ketemu tim tolol,stres
+lg stress,stres
+stress amp sakit bgt sampe bibir pucet kaya gini demi allah gue mau nyerah aja,stres
+g tahanku jd stress betulan awk lama disini,stres
+stress lini belakangnya tolong diperbaiki lagi sering bgt kebobolan lewat corner,stres
+gapapa stress asal,stres
+internya orgil barcanya stress,stres
+jujur tidak lt masa sma stress mikirin utbk,stres
+takut akan membuat seseorang kalah sebelum mencoba,stres
+bingung jdi pergi atau engga day  bulan dtg tpi disisi lain aku ada mau pergi ma temenku ke taman tpi takut malah nyeri di sana,stres
+omg udah mei takut bgt,stres
+maaf aku juga takut makanya ngajak ngajak,stres
+takut banget loch ak,stres
+bukan ke gengsinya si lebih ke takut jawabannya egk sesuai ekspektasi wkwkwkwk,stres
+sejak gw sd sampe sma dia selalu diwantiwanti sama keluarganya ibu neneknya biar dia gak temenan sama gw karena mereka takut gw memengaruhi anaknya pergaulan anaknya takut anaknya dibuat jelek sama gw yg keluarganya ga kaya mereka agamis bgt,stres
+takut banget yang tadinya harganya masih masuk akal jadi gak masuk akal,stres
+kaget bgt hpku layarnya pecah karena jatoh meskipun cuman sehelai tapi panik karena takut rusak ya allah ak blm ada duit,stres
+baru tau trnyta sanglah denpasar termasuk tinggi juga kasus bullying di lingkup ppdsnya gmna mau fokus sama pasien yg sakitnya macem kalo dokternya sndiri masi ada beban apalagi kalo di poli tu kebanyakan ppds yg ngurus pasien bekerja karna tekanan dan takut itu ga enak yaa,stres
+makasih udah selalu dukung tapi aku takut di seruduk warga,stres
+kok takut yahh,stres
+tapi takut,stres
+gua takut tbtb ada tagihan go dh masalahnya uang gua lg cash semuaakk,stres
+takut cedera,stres
+kesenjangan nyali sih gw blm nntn konser krn takut ditipu promotor,stres
+takut banget,stres
+gua takut,stres
+takut di seruduk warga,stres
+gw ga mau ngerepotin orang lain takut nya ga bisa balas jadi gw slalu usahain sendiri aja,stres
+guyss tolongin barusan ada nomkr random yang chat gue ngirim  foto sama  video tibatiba gue takut mau bukanya gue hrs gimana plisssss,stres
+aelah banyak banget lagi takut,stres
+takut bgt,stres
+sumpah takut bgt anak anak sekarang,stres
+berani karena benar takut karena salah begitulah yg di ajarkan di sekolah sejak dini jngn bnyk argumen jngn bnyk alasan hny memperuncing keadaan tunjukkan saja yg di minta mk selesailah semua persoalan amp tdk mnjd polemik berkepanjangan hingga gaduh yg tiada berkesudahan,stres
+serius nih takut batal otomatisnya sih,stres
+bangsatt mau otak atik gw keburu takut sendiri,stres
+kok jd takut ya kalo yg ini,stres
+hohohoo besok aku suda utbk sajaa takut dikitt,stres
+gue baru nyusun laporan pkl aja udah nangis terus udah ngeluh terus ini ntar gimana skripsi gue bisa ngga yaa takut jends,stres
+eh sumpah takut ce,stres
+umur segini mah bukan takut gapunya pacar anjir takut gajadi apa apa,stres
+bentar lagi pengumuman kelompok kkn takut bgt gapunya temen jir,stres
+takut bgt demi allah,stres
+penat lah berdebar macam ni takut kena marah etc dipagi hari yang sepatutnya cuti,stres
+tbtb ngetik gini soalnya ovt guys lingkunganku banyak yg marriage is scary takut bgt asli asli asli,stres
+mamah aku takut,stres
+pengen bess tapi keretanya takut ga nutut bess,stres
+sedih deh atlet e sport,tidak_stres
 bodo amat aku kan cakep,tidak_stres
-aku bersyukur bisa terus berbagi cerita walau liburan,tidak_stres
-gak sabar mau nulis nugas sama hewan peliharaan,tidak_stres
-tiap hari semangat buat jalan-jalan karena teman-teman,tidak_stres
-seneng banget bisa chat seru bareng teman-teman,tidak_stres
-hai semuanya apa kabar,tidak_stres
-seru banget waktu main game sama teman-teman,tidak_stres
-seru banget waktu makan enak sama cuaca cerah,tidak_stres
-gak sabar mau membaca buku sama hari minggu,tidak_stres
-seru banget waktu berbagi cerita sama pelajaran baru,tidak_stres
-cemas kau dek dek,tidak_stres
-tiap hari semangat buat main game karena teman-teman,tidak_stres
-tiap hari semangat buat belajar karena suasana sekolah,tidak_stres
-seneng banget bisa makan enak bareng senyum orang tersayang,tidak_stres
-tiap hari semangat buat olahraga karena pemandangan indah,tidak_stres
-penuh energi tiap kali olahraga setelah pemandangan indah,tidak_stres
-suka banget sama lagu zb1 insomnia,tidak_stres
-gak sabar mau berbagi cerita sama pelajaran baru,tidak_stres
-rasanya pengen main game pas lagi keluarga,tidak_stres
-gak sabar mau dengerin musik sama senyum orang tersayang,tidak_stres
-seneng banget bisa nulis nugas bareng suasana sekolah,tidak_stres
-ih mau ikut lomba kayaknya seru,tidak_stres
-nyaman rasanya bisa chat seru di tengah musik favorit,tidak_stres
-aku bersyukur bisa terus nongkrong walau suasana sekolah,tidak_stres
-waaa tadi asik nambah wawasan juga,tidak_stres
-aku bersyukur bisa terus membaca buku walau suasana sekolah,tidak_stres
-tiap hari semangat buat nongkrong karena keluarga,tidak_stres
-seneng banget bisa nulis nugas bareng senyum orang tersayang,tidak_stres
-nyaman rasanya bisa makan enak di tengah pemandangan indah,tidak_stres
-tiap hari semangat buat ketawa karena teman-teman,tidak_stres
-rasanya pengen berbagi cerita pas lagi hari minggu,tidak_stres
-seru banget waktu ngopi santai sama keluarga,tidak_stres
-senam pagi di hari minggu hehe,tidak_stres
-aku bersyukur bisa terus nonton film walau pemandangan indah,tidak_stres
-belajar sambil denger musik bikin ga pusing,tidak_stres
-rasanya pengen nonton film pas lagi pelajaran baru,tidak_stres
-akhirnya bisa ngopi santai dengan musik favorit,tidak_stres
-teori pasrah di game gacha memang benar,tidak_stres
-gak sabar mau main game sama musik favorit,tidak_stres
-gak sabar mau main game sama cuaca cerah,tidak_stres
-tiap hari semangat buat makan enak karena keluarga,tidak_stres
-gak sabar mau nulis nugas sama hari minggu,tidak_stres
-marah banget coklat aku dimakan kakak,tidak_stres
-aku bersyukur bisa terus belajar walau kopi pagi,tidak_stres
-aku main game karena keluarga,tidak_stres
-aku bersyukur bisa terus jalan-jalan walau suasana sekolah,tidak_stres
-aku ketawa karena teman-teman,tidak_stres
-rasanya pengen chat seru pas lagi musik favorit,tidak_stres
-aku bersyukur bisa terus ngopi santai walau momen kecil,tidak_stres
-seneng banget bisa bikin konten bareng suasana sekolah,tidak_stres
-nyaman rasanya bisa membaca buku di tengah suasana sekolah,tidak_stres
-tiap hari semangat buat nonton film karena hewan peliharaan,tidak_stres
-aku chat seru karena pemandangan indah,tidak_stres
-penuh energi tiap kali membaca buku setelah cuaca cerah,tidak_stres
-seneng banget bisa berbagi cerita bareng suasana sekolah,tidak_stres
-nyaman rasanya bisa chat seru di tengah momen kecil,tidak_stres
-wih cerah banget hari ini,tidak_stres
-seneng banget bisa nulis nugas bareng kopi pagi,tidak_stres
-aku ketawa karena pelajaran baru,tidak_stres
-rasanya pengen berbagi cerita pas lagi cuaca cerah,tidak_stres
-tiap hari semangat buat nonton film karena cuaca cerah,tidak_stres
-rasanya pengen ketawa pas lagi suasana sekolah,tidak_stres
-aku berbagi cerita karena kopi pagi,tidak_stres
-gak sabar mau jalan-jalan sama pemandangan indah,tidak_stres
-penuh energi tiap kali belajar setelah cuaca cerah,tidak_stres
-penuh energi tiap kali nongkrong setelah keluarga,tidak_stres
-seru banget waktu membaca buku sama senyum orang tersayang,tidak_stres
+seneng banget bisa main game bareng hari minggu,tidak_stres
+mancing dari malam sampai pagi gini lumayan bikin relax dari stress nya dunia gue,tidak_stres
+lah gimana orang negaranya bikin stress terus,tidak_stres
+gong bgt milyaran lg org gila,tidak_stres
+hodoh gila,tidak_stres
+heh emg lu mutualan rant sama dia ntar orgnya takut lg ada yg pqrt,tidak_stres
+sebenernya keteteran bngt tpi buat ff hyunlix lumayan ngilangin stress wkwkwk seruuu pokoknya,tidak_stres
+basically all gp cline gila sih mnet,tidak_stres
+wibu gila,tidak_stres
+wkwkwkwkwwkk bilang ke adeknya kak jangan stress amat ngerjainnya dibawa enjoy biar seru,tidak_stres
+hadi buyur ya offffff stres,tidak_stres
+ngobrol sama aku yuk kak dm aku jg gitu certa sm org ga di kenal niatnya pengen melepas sedih eh malah nambah stres,tidak_stres
+nyaman rasanya bisa olahraga di tengah musik favorit,tidak_stres
+cape liat orang orang pada ngutip dalil tp ga dibaca dan dicerna dengan seksama,tidak_stres
+aku bersyukur bisa terus jalan-jalan walau teman-teman,tidak_stres
+yey punya hp baru,tidak_stres
+penuh energi tiap kali dengerin musik setelah pemandangan indah,tidak_stres
+ketika gotak yg orangnya nekat  grasak grusuk temenan sama juntae yg orangnya gampang takut,tidak_stres
+ini doang yg paling mending gue rasa makin gue scroll ke bawah yg ada twitan sedih semua,tidak_stres
+stress semua stress,tidak_stres
+yaallah ak semalem mimpiin jalan ama byeon wooseok sedih bgt harus bangun,tidak_stres
+stres lu jordan semoga dideportasi trump lu wkwkk,tidak_stres
+syukur selama  periode nggak ikut milih nih orang tapi tetap kecewa lihat orang yang bermuka polos tapi penipu,tidak_stres
+takut ye pompuan psycho gini,tidak_stres
+seneng tadi nyanyi bareng temen,tidak_stres
+rdp menurut aku lumayan berat sih heavymature plot dan bikin sedihnaik pitam aja terus apalagi makin menuju akhir tp penulisannya deskriptif dan memang cakep as always,tidak_stres
+kalau lagi ngga cape jongkok,tidak_stres
+selama ini aku takut krn netflix suka jelek,tidak_stres
+orang gila,tidak_stres
+dunia memang sudah gila bangsa aseli pemilik tanah dianggap immigrant sementara bangsa dan ras lain yang merampas tanah milik bangsa lain malah dianggap pahlawan,tidak_stres
+seneng banget bisa belajar bareng keluarga,tidak_stres
+seneng banget bisa nulis nugas bareng hewan peliharaan,tidak_stres
+meliat yamal lalu meliat garnacho sedih amat,tidak_stres
 penuh energi tiap kali main game setelah liburan,tidak_stres
-aku berbagi cerita karena liburan,tidak_stres
-penuh energi tiap kali makan enak setelah pemandangan indah,tidak_stres
-nyaman rasanya bisa main game di tengah kopi pagi,tidak_stres
+tiap hari semangat buat nongkrong karena kopi pagi,tidak_stres
+stress boro sange gasih hrsny,tidak_stres
+sol siapa belom bobo ayo nd lagi stres fhere,tidak_stres
+ehhh gila stress berat ahhh tidakk fel kuu belum lama baru sembuh udh ada lagi terpaannya kuat fel sabar dok bani,tidak_stres
+aiguu takut sekalihh,tidak_stres
+weh weh gila broo itu bagus banget,tidak_stres
+sksksk tolongg gak kuat terus pas nobar season  yinyin kecewa soalnya shse gak pelukan pas suho bangun dari komanya,tidak_stres
+pen ku uyel uyel terus tapi takut kucel,tidak_stres
+gak sabar mau olahraga sama musik favorit,tidak_stres
+jangan kan bocah tk orang umur an aja takut liat nya aku,tidak_stres
+bro sangat stres,tidak_stres
+ada gila gilanye,tidak_stres
+materinya keren mas  nyimak  baca chat orangorang stress wkwkwkw,tidak_stres
+takut wkwk,tidak_stres
+orang stres mana yg tidur sepulang kuliah dan baru bangun jam segini adalah saya,tidak_stres
+lepas tol tanpa stress pastikan korang pilih lorong betul mengikut mod pembayaran yang disediakan senang je terus smooth perjalanan dan jangan lupa tindakan korang boleh jimatkan masa orang lain juga,tidak_stres
+cape banget setiap mau pergi pasti gitu mending nga usah pergi dah,tidak_stres
+ada lagi momen rony parulian ganteng bersama mobilnya yg juga ganteng belum liat dia nyetir sendiri tapi gini aja udah bikin gila liatnya keluar dari mobil aja bisa seattractive ini kok bisa,tidak_stres
+nah itu dia materi hari ini di  mimin harus pisah lagi nih sama sobat ipma tapi jangan sedih dulu sob karena mimin bakal balik lagi di  selanjutnya see u,tidak_stres
+gilaaa gua gila anying cape banget senyum senyum sendiri,tidak_stres
+di tikom udah sold malah cari under ntar ketipu sedih at least hargain idolnya pake harga yg pantes,tidak_stres
+tiap hari semangat buat nonton film karena hewan peliharaan,tidak_stres
+seneng banget bisa ketawa bareng teman-teman,tidak_stres
+seneng banget bisa chat seru bareng momen kecil,tidak_stres
+aku bersyukur bisa terus olahraga walau musik favorit,tidak_stres
+sefandom gila sama video beberapa detik legoxpondphuwinperth  ภวนทร,tidak_stres
+anak org stres ngadepin gua wkwj,tidak_stres
+gak sabar mau berbagi cerita sama pelajaran baru,tidak_stres
+sampe cape mengumpat ke yyds,tidak_stres
+tiap hari semangat buat makan enak karena hewan peliharaan,tidak_stres
+gila lu gharza,tidak_stres
+seru banget waktu nulis nugas sama suasana sekolah,tidak_stres
+kenapa polisi hanya diam saja melihat kelakuanku para preman² saat ini yang sudah meresahkan masyarakat polri takut dan kalah sama preman² kah,tidak_stres
+kita butuh lebih banyak ruang aman buat ngobrolin soal hak pekerja tanpa takut dicap pembangkang,tidak_stres
+mau beli soflens tapi sekarang aku gampang ngantukan wkwk takut lupa,tidak_stres
+ga kuattt wkwkwkwk msh pd stress grgr tong unboxing mark dah ga kelar bahasannye wkwkkw happy one monthsary,tidak_stres
+gak sabar mau main game sama hari minggu,tidak_stres
+sedih bgt  get well soon igu,tidak_stres
+aku bersyukur bisa terus belajar walau hari minggu,tidak_stres
+stress lu lamine yamal,tidak_stres
+buset dumfries ini balik balik  assist  goal dah gila emang sepenting itu dumfries,tidak_stres
+aku bersyukur bisa terus jalan-jalan walau suasana sekolah,tidak_stres
+mimpi dapet duit udah seneng tapi kecewa pas bangun tidur,tidak_stres
+seru banget waktu nulis nugas sama pelajaran baru,tidak_stres
 nyaman rasanya bisa jalan-jalan di tengah teman-teman,tidak_stres
-di film dokternya gila bangat,tidak_stres
-tiap hari semangat buat belajar karena musik favorit,tidak_stres
-aku bersyukur bisa terus bikin konten walau pelajaran baru,tidak_stres
-penuh energi tiap kali chat seru setelah musik favorit,tidak_stres
-gak sabar mau makan enak sama liburan,tidak_stres
-rasanya pengen chat seru pas lagi kopi pagi,tidak_stres
-seru banget waktu main game sama cuaca cerah,tidak_stres
-mau makan banyak makanan hari ini hehe,tidak_stres
-seru banget waktu chat seru sama teman-teman,tidak_stres
-seneng banget bisa belajar bareng cuaca cerah,tidak_stres
-seru banget waktu ketawa sama hari minggu,tidak_stres
+dimarcongapain ngomong gtu anj gw yg cape ntar klo si bocil ngamuk,tidak_stres
+jangan kecewa,tidak_stres
+galau bawa pear apa kedondong pear tuh gemes tp gede kalo kedondong kecil imut mudah hilang aku sayang semuanya takut ga dibawa satu nanti bapakku bikin video anak yang tidak dianggap,tidak_stres
+bisa gila,tidak_stres
+aku gak takut mencoba hal baru,tidak_stres
+seru banget waktu ketawa sama pelajaran baru,tidak_stres
+aku bkn fanatik kdm tapi lo cuma ormas dan ga ada kontribusinya sama masyarakat yg ada malah nyusahin malakin ngerusak doang lo pikir ormas di atas pemerintahan sah gila lo gjls,tidak_stres
+rasanya pengen chat seru pas lagi musik favorit,tidak_stres
+kakkk ayookk cobaa haydayyy aku juga baru main di banding stress mending menjadi petani dan pengembala sajaaa,tidak_stres
+seru banget waktu olahraga sama liburan,tidak_stres
+nyaman rasanya bisa makan enak di tengah pemandangan indah,tidak_stres
+i see ya semoga preparation beneran well prepared karena denger denger webtoon ini lumayan populer di thai dan people kinda have high expectations tapi sempet kecewa sama castingnya  pilot trailernya,tidak_stres
+gak sabar mau jalan-jalan sama cuaca cerah,tidak_stres
+nyaman rasanya bisa berbagi cerita di tengah liburan,tidak_stres
+udh pernah kecewa sama album jepang,tidak_stres
+seneng banget bisa nongkrong bareng suasana sekolah,tidak_stres
+seneng banget bisa bikin konten bareng keluarga,tidak_stres
+rasanya pengen makan enak pas lagi hewan peliharaan,tidak_stres
+tiap hari semangat buat makan enak karena pelajaran baru,tidak_stres
+cemas kau dek dek,tidak_stres
+stres smua org stres,tidak_stres
+aku bersyukur bisa terus nulis nugas walau pemandangan indah,tidak_stres
+yg nonton juga cape kek marah terus,tidak_stres
+stress dia ganteng banget,tidak_stres
+sabarr sedang merawat kebun bunga yg dimulai dari  cape ternyata tp nanti klo udh saatnya mekar capenya bakal ilang semua,tidak_stres
+begini lah jd pemulung pelit amaad cuma sebiji prasaan waktu itu mah  dah gak sebiji gini ini lah alasan gw gak mau stan grup banyak huaaa cape mulung nya,tidak_stres
+aku ketawa karena teman-teman,tidak_stres
+stress bgt maen palo dilaptop anjay fps yg cuma  itu terjun mulu monitor cuma hz ping an terbang setinggi harapan,tidak_stres
+bos pun manusia pekerja pun manusia duadua ada stres duadua perlu rehat psikologi organisasi bukan salahkan siapa tapi memahami kenapa dan bagaimana selamat hari pekerja,tidak_stres
+kalo too good to be true tuh malah di akhir bikin kecewa gak sih,tidak_stres
+wowo gendut ambisinya gak beda sama mulyono yg dulu sokan jadi raja yang sekarang ambiss apaapa tentara apatentara dah gila,tidak_stres
+tiap hari semangat buat makan enak karena keluarga,tidak_stres
+sebagian besar komunitas pada marah kan  artinya mereka kecewa broo udah lah lu pada diem aja jan banyak tingkah lu semua disana tidak dianggap membawa kepentingan komunitas,tidak_stres
+nyaman rasanya bisa belajar di tengah pemandangan indah,tidak_stres
+br pulang nongkrong dr jam  terus ternyata ac blm dimatiin kecewa,tidak_stres
+aku bersyukur bisa terus nulis nugas walau hari minggu,tidak_stres
+rasanya pengen nonton film pas lagi pelajaran baru,tidak_stres
+penuh energi tiap kali olahraga setelah kopi pagi,tidak_stres
+penuh energi tiap kali nulis nugas setelah cuaca cerah,tidak_stres
+aku main game karena keluarga,tidak_stres
+inilah sumber stres utama dalam rumah tangga cek cara mengatasinya,tidak_stres
+mati lampu kesel deh,tidak_stres
+nyaman rasanya bisa berbagi cerita di tengah suasana sekolah,tidak_stres
+tibatiba bayangin sunoo main drama semacem drama weak hero class karakter sunoo kayak sieun apa ga stress banget gue,tidak_stres
+wih cerah banget hari ini,tidak_stres
+ditunjukkan fakta kalau pendukung jokowi itu bodoh tidak bisa legowo malah bilang hati kotor manusia kalau otaknya busuk ngomongnya kayak orang gila tunjukkan letak termakan pembodohannya di mana,tidak_stres
+kenapa tl ku gaada yang bahas tonkla ya anj sedih bet sampe bengep mata happy one monthsary,tidak_stres
+gua ga abis fikir gimana kalau mereka swmua tau kalo mereka lagi foto sama pencuri  pasti mereka kecewa bgt,tidak_stres
+udah deh males masih sedikit kecewa gua semoga lu bisa kembali perform dengan baik,tidak_stres
+yang gila itu kau didu,tidak_stres
+serem banget anjing gue takut banget comeback kali ini knp nakutin bgt siiihhhhhh,tidak_stres
+cape bgt sama fans tuh pada aneh malas,tidak_stres
+setiap ambil wudhu jadi segar dan suci,tidak_stres
+aku makan enak karena liburan,tidak_stres
+sebagai fans yg suka koleksi printilan idolgroup sih gue kecewa sama jeketi v,tidak_stres
+aku main game karena momen kecil,tidak_stres
+orangorang gila,tidak_stres
+kok bisa nekat nilep uang kantor milyaran anjir baru lulus lukhhh stres,tidak_stres
+penuh energi tiap kali dengerin musik setelah keluarga,tidak_stres
+penonton kecewa dihapus,tidak_stres
+aku bersyukur bisa terus berbagi cerita walau liburan,tidak_stres
+nyaman rasanya bisa main game di tengah kopi pagi,tidak_stres
+cape emang liat opini warga twt,tidak_stres
+udah cape ya gwe biarin aja biarin,tidak_stres
+penuh energi tiap kali makan enak setelah momen kecil,tidak_stres
+nyaman rasanya bisa belajar di tengah momen kecil,tidak_stres
+aku bersyukur bisa terus nonton film walau hewan peliharaan,tidak_stres
+gak sabar mau jalan-jalan sama pemandangan indah,tidak_stres
+mari kita berenang agar tidak stress,tidak_stres
+tni tidak takut mati tapi mereka takut lapar,tidak_stres
+orgil sih org mh kpopan buat ngilangin stres dia mlah bikin stres,tidak_stres
+gila trip kali ini amat menyenangkan si,tidak_stres
+aaakk happy for youuu congratss yaaa semoga di tempat yg baru lingkungannya lebih positif dapet tim yg suportif terus senoga cepet adaptasinyaa no more galau dan stress lgi karena rekan kerja yaa ann,tidak_stres
+campur aduk bgt rasanya turut berbahagia tp sempet mellow beberapa bulan sbelum nikahan dan nanges dulu wkkke takut bgt stelah nikah jd berubah dan asing,tidak_stres
+penuh energi tiap kali belajar setelah keluarga,tidak_stres
+bang cape kaga ngadepin nya wkwkwk,tidak_stres
+wkwk cape bgtt,tidak_stres
+sorry penonton kecewa,tidak_stres
+tidak terjadi kita akan ttp stres wlpn akhirnya akan ke ke final jg,tidak_stres
+seneng banget bisa dengerin musik bareng keluarga,tidak_stres
+ehh iya alkaline batre paling awet kecewa pas beli ls dari ime di kasih batre yang udah mau habis,tidak_stres
+tapi takut ye tgk perempuan tu punya level obses siap buat tiktok nama gabung gambar kat tiktok pun bnyk gmba laki tu and dia claim as husband,tidak_stres
+aku bersyukur bisa terus dengerin musik walau kopi pagi,tidak_stres
+simpel tapi mampu buat aku gila couple euneun ku mana aku juga baru nyadar kalo usn mereka kembaran,tidak_stres
+ini kak aku ada fotonya buat bukti aku lagi cari cari fw yg cocok buat aku krena ud cape cari coba beli fomo akhirnya aku beli lah cethapil dan yap bagus oky,tidak_stres
 pengen jadi mahasiswa,tidak_stres
-aku bersyukur bisa terus membaca buku walau senyum orang tersayang,tidak_stres
+gila aurelie cantik banget kaya dakota johnson semoga langgeng terus semoga suami yg skg ga toxic kaya suami dia yg dulu,tidak_stres
+adek mukanya sedih anet,tidak_stres
+pita kp gn stress,tidak_stres
+kalo mau umroh cek jg hotel yg dipake travelnya yg selama dimekah liat di google ulasan hotelnya kalo banyak yg kecewa jangan daftar di travel yg menggunakan hotel tsb,tidak_stres
+dipenjara demi cowo kipop gila sih,tidak_stres
 penuh energi tiap kali ketawa setelah musik favorit,tidak_stres
+takut dan waspada memang dibutuhkan tapi dalam batas kewajaran,tidak_stres
+dibilang ratu dan tukang prank inilah sisi gila dilraba dilmurat yang jarang terungkap,tidak_stres
+gila aku aja baru bangun nderr,tidak_stres
+tiap hari semangat buat belajar karena suasana sekolah,tidak_stres
+rasanya pengen berbagi cerita pas lagi cuaca cerah,tidak_stres
+seneng banget bisa bikin konten bareng suasana sekolah,tidak_stres
+penuh energi tiap kali chat seru setelah musik favorit,tidak_stres
+rasanya pengen main game pas lagi keluarga,tidak_stres
+gabung may day damai bawa aspirasi tanpa takut rusuh,tidak_stres
+merencanakan liburan hehe,tidak_stres
+cape town naona ndo naweka investment next,tidak_stres
+ya sama stress sih ini,tidak_stres
+gue jd lu juga sedih bgtkek ga ngapa ngapain tbtb dihate tuh apaan coba tenang aja itu cuma segelintir anomali kokk kebanyakan org kek gue masi inget betapa menghiburnya elu,tidak_stres
+semalem mata melek bgt baca berita ini the real orang gila,tidak_stres
+kecewa sekali ayah coba lihat  adekmu udah ngga mau di nangningnung,tidak_stres
+stres ujung sepatu itu liat udh ditarik garis lurus,tidak_stres
+nyaman rasanya bisa ngopi santai di tengah hewan peliharaan,tidak_stres
+aku ngopi santai karena musik favorit,tidak_stres
+ngopekin bibir adalah salah satu stress relief,tidak_stres
+senam pagi di hari minggu hehe,tidak_stres
+sedih banget pengen gambar dia,tidak_stres
+sakit perut ketawa terus,tidak_stres
+aku tidur nyenyak semalam,tidak_stres
+gak sabar mau dengerin musik sama hewan peliharaan,tidak_stres
+stres melihat yg dihantem lb mulu,tidak_stres
+the real tak bagi naik train pagi buta sebab takut i takdak mood and tak bercakap bebudak ni tak suka i diam,tidak_stres
+wujud asli decul stres,tidak_stres
+ampe dream tau udh pasti kecewa prah,tidak_stres
+merasa kecewa suaramu bgs tapi ak tetep sukak request lagunya niki yar,tidak_stres
+aku bersyukur bisa terus ngopi santai walau momen kecil,tidak_stres
+seru banget waktu membaca buku sama kopi pagi,tidak_stres
+penuh energi tiap kali nonton film setelah keluarga,tidak_stres
+gak sabar mau berbagi cerita sama pemandangan indah,tidak_stres
+nyaman rasanya bisa ngopi santai di tengah keluarga,tidak_stres
+seneng banget bisa nongkrong bareng momen kecil,tidak_stres
+tiap hari semangat buat jalan-jalan karena teman-teman,tidak_stres
+serius itu raja apaan sih raja dari gurun kah kalo iya ya bisa jadi contoh makhluk yang gila agama itu in real life,tidak_stres
+orangorang apa ga takut dosa ga takut neraka,tidak_stres
+seru banget waktu nongkrong sama pelajaran baru,tidak_stres
+nyaman rasanya bisa ngopi santai di tengah pemandangan indah,tidak_stres
+pengen jadi orang sukses,tidak_stres
+agaknya stress di umur tua,tidak_stres
+tiap hari semangat buat olahraga karena pemandangan indah,tidak_stres
+gila buang uang makanan tenaga ih smoga bs dikondisikan dong lumayan jadwal sekolah kelas  kan msh paanjang,tidak_stres
+sedih rasa semoga orang yang diuji tuhan diberi keampunan dan diangkat darjatnya,tidak_stres
+amannya sih pake aja ya nanti kalo di sananya boleh lepas baru lepas eiya mereka tuh dikomendm ga dibales cape banget,tidak_stres
+lu tiduran cuma bisa  posisi tengkurep dan telentang gila lu meningsoy,tidak_stres
+wkwkwkwk takut dia sama yang lain kah kak,tidak_stres
+seneng banget bisa makan enak bareng senyum orang tersayang,tidak_stres
+gue stres bgt liat tingkah lo berduaaa,tidak_stres
+manifesting mei ini ga banyak sedih nya,tidak_stres
+aku berbagi cerita karena keluarga,tidak_stres
+seneng banget bisa berbagi cerita bareng suasana sekolah,tidak_stres
+bsngun stress kepikiran mau tidur susah terbangun terus tapi ngantuk,tidak_stres
+paling gila itu benfica vs barcelona di grup stage,tidak_stres
+lu gak takut makan duit haram ngebuzzer duit rakyat tuh yg lu makan kasian keluarga lu,tidak_stres
+sedih sekalii,tidak_stres
+seneng banget bisa berbagi cerita bareng keluarga,tidak_stres
+gak sabar mau ngopi santai sama cuaca cerah,tidak_stres
+rasanya pengen nongkrong pas lagi hari minggu,tidak_stres
+bener kecewa asli padahal masalah palestine besar banget masa mereka masih tutup mata sedih sih semoga member lain gada yang gitu lagi deh aduh,tidak_stres
+seru banget waktu chat seru sama teman-teman,tidak_stres
+kok cepet banget waktu hikzz sedih,tidak_stres
+mereka itu kecewaserangan yang diluncurkan palestina dan pendukungnyasekedar daya kejut mereka meminta di tembak masiv dengan rudal icbm sampai properti berserakan,tidak_stres
+aduh mau ketawa takut sakit lagi,tidak_stres
+gw rasa etmin nya stres bgt yak gegara password sjsjjsksssksk,tidak_stres
+nyaman rasanya bisa jalan-jalan di tengah suasana sekolah,tidak_stres
+kalo stres terus bersih bersih kamar nyuci baju sepatu masak di kamar itu artinya stres banget ya wkwk,tidak_stres
+energinya yamal jg gila sih ga masuk akal,tidak_stres
+gak sabar mau nonton film sama hewan peliharaan,tidak_stres
+abis baca ulang chat ma temen sedih bgt karna woiiii kita segemesin ituuu bareng sekarang akunya sendiriannnn dah pada kabur duluannn akukapankaburjugaa,tidak_stres
+gila grand design untuk merusak negeri ini,tidak_stres
+dibangunin buat masak bumbu udah disiapin tapi ditinggal pergi pas  tungku nyala semua stress happy one monthsary,tidak_stres
+tiap hari semangat buat makan enak karena liburan,tidak_stres
+seneng banget bisa nonton film bareng keluarga,tidak_stres
+masih ok kak aku pernah  bulan gak haid waktu skripsian kalau lebih dari  bulan baru katanya harus periksa tapi kalau takut apa mending periksa aja kalau bulan depan gak haid lagi,tidak_stres
+seneng banget bisa nulis nugas bareng kopi pagi,tidak_stres
+kecewa kirain mamah yeon beneran,tidak_stres
+anjay ntar ada si itu takut bgt tak lempar sepatu,tidak_stres
+gila yg storage  udah engap pas update lads untung pas beli ni hp gb mikirnya jangka panjang  samsung knp ga ada yg  sih buat non flagship,tidak_stres
+aku nonton film karena pelajaran baru,tidak_stres
+guys yg nnyain sn dr tikom katane nunggu di info mecim gila lu yaaa cim,tidak_stres
+pernah pls takut bgt sampe obses gitu setahun baru bisa lepas dari dia mungkin dia cape ngejar atau bikin nomor baru buat chat aku  aku selalu block nomornya wkwk,tidak_stres
+gak divingdiving sampai benarbenar numpuk itu mtnya aku juga begitu ini baru balik lagi dari kemalasan tut sudah game semalam stress gak kita sekelompok btw wkwkwk,tidak_stres
+dokternya baik banget,tidak_stres
+ini lari pagi aja kali ya biar ga stress,tidak_stres
+pusing dia cantik banget,tidak_stres
+gila yang ini korupsi duit perusahaannya miliaran aowkoakwoakwo,tidak_stres
+aneh bgt aku balik kerja lgsg goodmood dan full energy bisa nyanyi kenceng di jalan pdhl td stress bgt,tidak_stres
+skem km cinta kakanda sungguh kecewa,tidak_stres
+seneng banget bisa nulis nugas bareng suasana sekolah,tidak_stres
+anger issue tolong sekali kali sambat gua takut kalo dah ga sambat ga beres banget ni anak,tidak_stres
+kalau gw jadi hyeri dan gw tau hal ini gw malu sih hyeri anak baik tapi fans nya bikin nama dia buruk sama kelakuan gila fans nya baca nih fans hyeri,tidak_stres
+tiap hari semangat buat jalan-jalan karena pelajaran baru,tidak_stres
+nyaman rasanya bisa belajar di tengah pelajaran baru,tidak_stres
+ga kebayang gimana perasaan temanteman yang pernah mengalami ks aku cuma mimpi aja rasanya sedih capek marah bingung semoga kita semua selalu dilindungi tuhan amin,tidak_stres
+aku bersyukur bisa terus bikin konten walau cuaca cerah,tidak_stres
+kalau capricorn udah post berbau alam berarti level stresnya tuh stres banget apalagi berbau tanah pohon atau pegunungan itu kalau ditanya lagi knp pasti langsung nangis kejer,tidak_stres
+waaa tadi asik nambah wawasan juga,tidak_stres
+walaupun cape tetep jalanin ya dek,tidak_stres
+di film dokternya gila bangat,tidak_stres
+aku bersyukur bisa terus dengerin musik walau momen kecil,tidak_stres
+langsung blok lalu jogging biar ga stress,tidak_stres
+penuh energi tiap kali jalan-jalan setelah pelajaran baru,tidak_stres
+seru banget waktu makan enak sama pelajaran baru,tidak_stres
+mengurangi stress bisa menghirup udara segar  lihat sunrise dan utamanya ngerasa pd pake baju model apapun,tidak_stres
+aku bersyukur bisa terus bikin konten walau pelajaran baru,tidak_stres
+waaa nilai bagus bisa masuk kedokteran nih,tidak_stres
+kadang takut sama mutual yg tiba ga aktif,tidak_stres
+mikel arteta kecewa arsenal harusnya imbang lawan psg,tidak_stres
+ada aja gebrakan lu berdua bangg gue yg stress happy one monthsary,tidak_stres
+gua lagi nonton bisa diam dulu tidak tapi bercanda lanjutin aja biar gua stres banget happy one monthsary,tidak_stres
+iya udah cape banget ngadepin drama mecimprut,tidak_stres
+seru banget waktu chat seru sama momen kecil,tidak_stres
+penuh energi tiap kali belajar setelah cuaca cerah,tidak_stres
+setelah melihat yamal dua pertandingan emang gila ni pemain,tidak_stres
+i ada jumpa satu pants ni cantik gila cutting dia pun nice harga tak sampai rm pun weh,tidak_stres
+tau ah cape main mole gada org subuh gini,tidak_stres
+sedih,tidak_stres
+gak sabar mau berbagi cerita sama hari minggu,tidak_stres
+buko jah wi ore knl bkpo nok tutup jk betul fitnah nk takut apo takkan dio nok same malu sbb dio pon suko memalukan diri dia sendiri,tidak_stres
+ngejaga hati biar ga kecewa,tidak_stres
+eh vasektomi tuh masih bisa ngewe dan crot dmn aja knp lo takut bgt padahal istri lo kb jg dia ga takut knp klau lo vasektomi jdi kayak mau meninggal,tidak_stres
+tidur anjir malah buka iqiyi lagi stres gue,tidak_stres
+apasih ferrari ini gjelas anjirlah cape bgt gue loh ngliatnya udh kek freak anj,tidak_stres
+sedih bngst baru melek mata wa uda dibuat nangis aelah kesalahan ini napa lngsung baca kopitale pagi pagi nalaaaaaaa peluk jauh buat kamu,tidak_stres
+seneng banget bisa berbagi cerita bareng momen kecil,tidak_stres
+berarti kamu belum siap untuk memulai hubungan baru pergi aja kak kasian cowo mapannya nanti kamu juga malah cape sendiri kalo dipaksa menjalani hubungan karena isinya cuma trust issue,tidak_stres
+seru banget waktu ngopi santai sama keluarga,tidak_stres
+takut bgt njrit daddy,tidak_stres
+seruuu tauu tp stress jugaa,tidak_stres
+gak sabar mau jalan-jalan sama suasana sekolah,tidak_stres
+iyaa sedih kaaan nnie padahal aku suka banget anabul,tidak_stres
+abis utbk niat menghibur diri dengan nonton film dan yap bukannya terhibur malah makin stres tadi juga cezza stres nontonnya trs kayanya stres jg menangani aku yg stres di bioskop itu,tidak_stres
+gila ya april baru selesai perasaan udh lama sejak pacarku bilang april mop sayang,tidak_stres
+rasanya pengen jalan-jalan pas lagi momen kecil,tidak_stres
+lah orang gila,tidak_stres
+zindagi main stress or bad news ke ilawa aur kuch nehi raha allhumdulillah,tidak_stres
+gila nonton resplay bikin takbir mulu liat go younjung cantik banget,tidak_stres
+penuh energi tiap kali olahraga setelah pemandangan indah,tidak_stres
+gila karina keren banget,tidak_stres
+beneran gila karena kpop,tidak_stres
+hati dan otak kau tu yg jijik get help to recover takut simpan lama jadi gila u still ada hope,tidak_stres
+gak sabar mau berbagi cerita sama suasana sekolah,tidak_stres
+gak sabar mau ketawa sama musik favorit,tidak_stres
+selamat pagi jangan lupa vote khy naik lagi  hari ini siap atau besok siap pejuang melawan gue panik dan takut,tidak_stres
+di arab bikin beliau stress sepertinya,tidak_stres
+ih mau ikut lomba kayaknya seru,tidak_stres
+beneran takut,tidak_stres
+asli sedih merosot bgt spo nya  monthly listeners padahal dulu pernah nyentuh  m loh,tidak_stres
+takut bgt bakal di bawa sm om reiden,tidak_stres
+sedih banget kayanya,tidak_stres
+woiii tapi gak salah orangnya emang gila,tidak_stres
+udah sering dishare tapi semua harus tau aku paling takut banget sama iklan radio berbagai macam merk obat pasaran paramex promag termorex dll tiap keinget iklannya langsung merinding sebadanbadan,tidak_stres
+seru banget waktu berbagi cerita sama teman-teman,tidak_stres
+orang gila mikir gasih kalo dia gila,tidak_stres
+kadang takut kadang sange awoakwoakwok,tidak_stres
+hah gila sih emang paling bener hidup sesuai kemampuan aja termasuk urusan fangirlingan,tidak_stres
+aku nulis nugas karena pemandangan indah,tidak_stres
+gak sabar mau membaca buku sama hari minggu,tidak_stres
+penampakan mas pacar ngechat ngabarin sebelum manggung hahznansnsjs wargh stres,tidak_stres
+iya sumpahhhh evil edit mnet jahat bgt gila,tidak_stres
+sm sih aku jg punya bbrp temen yg nyinyir bgt nyuruh cpt nikah takut ketuaan krn aku cewe  i mean hello in this economy mrk mikir kalo nikah tuh semua masalah hidup bakal ilang kali ya,tidak_stres
+lucu banget temen ku kena razia rambut,tidak_stres
+gila banget teori enha gue ternganga mulu,tidak_stres
+seru banget waktu nongkrong sama teman-teman,tidak_stres
+stres orang teh,tidak_stres
+hai semuanya apa kabar,tidak_stres
+kadang temen kayak han gini yang kalo ngomong segala kingdom animalia dia bawa tapi hatinya yang paling lembut yang kalo temennya sedih nangisnya lebih kenceng lagi,tidak_stres
+hapusen ml mu timbang gawe stres,tidak_stres
+seneng banget bisa belajar bareng cuaca cerah,tidak_stres
+gila bgt emg ssg tvxq nih  diluar nurul bgt kelakuannya ckckckck,tidak_stres
+atau sebenernya galucu tapi gua stres ya,tidak_stres
+ahahahah samaaaaa ak jg engga anjirr kek cape bgt maw pusreng tuhh,tidak_stres
+rasanya pengen ngopi santai pas lagi momen kecil,tidak_stres
+aku bersyukur bisa terus chat seru walau hewan peliharaan,tidak_stres
+wtffff kak ana deact akun demi apasih gue gabisa reread dong sumpah sedih banget,tidak_stres
+gila sedih wehh story ni terpaksa buat camtu even dia sayang gila hmm,tidak_stres
+cape ngasi makan babi,tidak_stres
+nyaman rasanya bisa dengerin musik di tengah suasana sekolah,tidak_stres
+kecewa bgt si jessie ga join lg,tidak_stres
+seru banget waktu berbagi cerita sama pelajaran baru,tidak_stres
+ini lebih gila lagi,tidak_stres
+gak sabar mau nonton film sama liburan,tidak_stres
+kalau lihat tiga bogel lucu itu ilang satu rasanya sedih meski seringnya nyimak dari twitter aja hope youll back soon dengan semua fakta terungkap supaya kamu bisa tenang,tidak_stres
+aku ketawa karena pelajaran baru,tidak_stres
+betull selagi pake duit sendiri cape sendiri,tidak_stres
+penuh energi tiap kali main game setelah hari minggu,tidak_stres
+kecewa dikit,tidak_stres
+gw jg ga mau tbtb nunjukin ijazah dpn org gila mending biarin aja gila sendirian wkwk,tidak_stres
+bener kuncinya sih asal kita bahagia  kalo udh mikirnya ke yg lain mah malah bikin cape ga siiii semoga kita tetap berada di jalan yg normal aja ya mayyy,tidak_stres
+maaf buat kamu kecewa ya maaf kalau ternyata aku di luar ekspedisi kamu cy,tidak_stres
+bro gw takut ntar dia ke indo gini juga,tidak_stres
+tiap hari semangat buat nongkrong karena keluarga,tidak_stres
+ironis ngomongin etika soal calon wadek di kantor bunda but she herself milih  masih sedih mengingat ini,tidak_stres
+stress ajg inter  gol set piece corner ditambah bek inter sama sommer alot bgt,tidak_stres
+fen sadar fen jangan sampe yang udah dukung dari awal pada lebih kecewa,tidak_stres
+tiap hari semangat buat ketawa karena hari minggu,tidak_stres
+suka banget sama lagu zb1 insomnia,tidak_stres
+ini gila bgt,tidak_stres
+kecewa lah gak nemu seblak istimewa disini gamau dulu lah,tidak_stres
+wkwk stres,tidak_stres
+hopefully besok dpt qr code tu aku kalau stress jadi serba tak kena selagi tak settle kenapa la gatal nk beli sendiri,tidak_stres
+agak serem ya aku kalo suka cowo save foto pun diem takut ketauan trus dia ilfeel maksudnya berlebihan itu gak baik mending ngomong aja aku gak suka kamu edit foto  foto rumahku,tidak_stres
+kecewa,tidak_stres
+rasanya pengen jalan-jalan,tidak_stres
+takut bgt cuma perkara menuhin hasrat fangirling jd begitu,tidak_stres
+belajar dulu ges biar jadi dokter anjay,tidak_stres
+kecewa sm si rafesul,tidak_stres
+yang nonton stres,tidak_stres
+seru banget waktu makan enak sama cuaca cerah,tidak_stres
+pengen jadi orang sukses,tidak_stres
+seru banget waktu ngopi santai sama suasana sekolah,tidak_stres
+gusdur  bangsa ini bangsa pengecut tidak berani melawan kejahagan menurut sy yg pengecut adalah para petinggi dan pejabat yg takut kehilangan jabatannya rakyat ma mau aja diajak perang ya monggo,tidak_stres
+kita kerja keras bukan buat jadi hero tapi biar bisa hidup tanpa takut tiap tanggal tua,tidak_stres
+lucu liat temen takut sama kecoa,tidak_stres
+fitz sedih banget ya dia pasti kesepian,tidak_stres
+sedih sekali sepertinya pengabdi setan  dipostponed,tidak_stres
+shootnya messi prime gila itu akurasinya,tidak_stres
+wkwkwkwk lucu banget liat misandri ngetek ke pemerintah go ahead lah bro mau dibawa kemana kek teserah lu ga takut gw tapi nanti kalo ada case yg ngeberatin kaum lu jangan ngajak ngajak kita ya,tidak_stres
+cape banget kayaknyaa yaaa emang jauh,tidak_stres
+krismon misal ditujukkan pasti bacot lagi jadi gak usah nanggepin orang stres,tidak_stres
+sebejat aku juga ttp sholat doain mama bapak biar sehat dan ada rezeki terus tau ih cape bgt untung ada twt buat sambat,tidak_stres
+kecewa goodbye starfusyon,tidak_stres
+rasanya pengen ketawa pas lagi suasana sekolah,tidak_stres
+aku bersyukur bisa terus makan enak walau musik favorit,tidak_stres
+game yg bikin stres buat berteman ini mah,tidak_stres
+cape bang saya jawab nya dua duanya sama prkir bus sama numpuk pemain di belakang,tidak_stres
+rasanya pengen berbagi cerita pas lagi senyum orang tersayang,tidak_stres
+allaahhuu boring gila ada otak macam ko,tidak_stres
+penuh energi tiap kali nongkrong setelah keluarga,tidak_stres
+main game sampe lupa waktu wkwk dan sekarang ngantuk banget,tidak_stres
+gak sabar mau belajar sama liburan,tidak_stres
+tiap hari semangat buat belajar karena musik favorit,tidak_stres
+lo yang minimal belajar mereka daftar cpns buat apa kalo takut keterima mikirrrr,tidak_stres
+nilep duit perusahaan sampe miliaran buat kpopan gila banget si,tidak_stres
+iya aku baca qrt semua gila ya masa depan rusak cuma karena gengsi,tidak_stres
+tiap hari semangat buat main game karena teman-teman,tidak_stres
+npd nih mamahnya danika sakit  gk ada pikiran stress gilaa,tidak_stres
+takut ijazahnya jd pembanding ketahuan abal,tidak_stres
+akademik stres falan filan,tidak_stres
+rasanya pengen berbagi cerita pas lagi hari minggu,tidak_stres
+lagi suntuk gini ketemu few tweets yh biasanya w cringe jdi ketawa sendiri bjirr stress,tidak_stres
+wkwkwkw wartawan stress,tidak_stres
+ga nonton jumbo karena kecewa ga pake ai di tahun  ini,tidak_stres
+betul kalau tak sedih je hidup bila fikirkan jadi baik jangan life is too short to be sad nanti kita yang rugi orang tu elok je have fun,tidak_stres
+gila gw lg nangis seharian byk stres liat ini berasa kena tegur tuhan kek jgn lupa bersyukur,tidak_stres
+barbar ah eehhh pas liat pd ke s jd takut nghunter,tidak_stres
+cuti nak rehat tapi stress nangis sebab jantan,tidak_stres
+nder aku tau kamu lagi stress,tidak_stres
+tiap hari semangat buat belajar karena senyum orang tersayang,tidak_stres
+hey kok sedih kan filmnya happy,tidak_stres
+seneng banget bisa chat seru bareng teman-teman,tidak_stres
+yang aku rekomendasikan udah pada aku cobain jadi jangan takut zonk in syaa allah bagus tapi balik lagi semua sesuai selera happy shopping,tidak_stres
+seneng banget bisa nonton film bareng teman-teman,tidak_stres
+waras dan gak toxic harus banget biar kita gak gila,tidak_stres
+tiap hari semangat buat ketawa karena teman-teman,tidak_stres
+sedih saya lihatnya,tidak_stres
+gila ya mecima ga hbs pikir h blm dpt sn,tidak_stres
+sama gue juga ada rasa kecewa sma kta yoko tapi klw ada yang kasar gue sedih,tidak_stres
+gila stress bgt jago bgt,tidak_stres
+plp jan garai stres pol rek,tidak_stres
+gak sabar mau jalan-jalan sama teman-teman,tidak_stres
+wah dijadiin movie pernah nonton ini di tv sedih banget,tidak_stres
+pacarku lagi sakitt kakk sedih banget,tidak_stres
+aku berbagi cerita karena kopi pagi,tidak_stres
+nonton move to heaven baru ep  dah tak close gak kuat anjrit sedih bgt,tidak_stres
+buat gaduh dan membuat rakyat takut pak   masa seperti ngancam mau kerahkan ratusan ribu ke jabar ormas kok rasa preman bubarkan saja pak gk penting ormas yg rasa preman,tidak_stres
+rasanya pengen nonton film pas lagi pemandangan indah,tidak_stres
+wkwkwk fineapple sih dek g rill jauh banget dari ekspetasi kecewa betul buat aku yang ngikutin on goingnya,tidak_stres
+perasaan tonkla kerasa banget diaku sedih bangat happy one monthsary,tidak_stres
+barca dibuat stres sama pertahanan inter inter dibuat stres sama prank barca,tidak_stres
+penuh energi tiap kali makan enak setelah suasana sekolah,tidak_stres
+seru banget waktu ngopi santai sama pemandangan indah,tidak_stres
+bro kecewa ringan ketik f for respect,tidak_stres
+iya ya kadang aku jg bingung takut mereka aktif lagi,tidak_stres
+seneng banget bisa dengerin musik bareng senyum orang tersayang,tidak_stres
+aku bersyukur bisa terus belajar walau musik favorit,tidak_stres
+penuh energi tiap kali chat seru setelah momen kecil,tidak_stres
+yahh kecewa,tidak_stres
+mengikuti abangabang karena takut nyasar wkwkwk,tidak_stres
+aku bersyukur bisa terus belajar walau kopi pagi,tidak_stres
+gimana caranya jadi vegan dan meninggalkan ayam ih sedih bgt kehidupan seperempat abad ini,tidak_stres
+yg inih bray masa lu blom baca sih parahhh klo blom baca au stres gw,tidak_stres
+sedih,tidak_stres
+buzer ga bakal ngaku ncen nek awmu iki kyok e gendeng minim empati mbak e ddi korban pelecehan verbal dll kon sek nyalahno mbak e lak stres separo arek iki,tidak_stres
+tiap hari semangat buat nulis nugas karena pemandangan indah,tidak_stres
+lo bisa punya seragam kerja keren tapi itu nggak ada artinya kalau setiap harinya lo cuma nahan stres,tidak_stres
+penuh energi tiap kali membaca buku setelah hewan peliharaan,tidak_stres
+disaat udah tenang dikit ada aja yg bikin sedih lagi apa harus berhenti scroll dulu gue baca kata est dan rumah sakit ada di satu tweet aja gue nangis allah akbar,tidak_stres
+cape ketawa dia akting nya bener kaya orang gila,tidak_stres
+gimana cara stopnya ka cape bgt dapet iklan begini mulu message penuh sm ads yg kayak gini hadeh,tidak_stres
+pagiii ahyeona udah tanggal satu masih ga mau update foto yang baru nahan kangen sama kamu bikin gila,tidak_stres
+begadang tu gada dalam niat tudey ini kopi yg gue minum td strong bgt sial efeknya ampe bikin seger mulu dan laper palsu stres,tidak_stres
+pertandingan paling stres,tidak_stres
+seram gila baca komen dia,tidak_stres
+aku olahraga karena pemandangan indah,tidak_stres
+rasanya pengen nonton film pas lagi cuaca cerah,tidak_stres
+org saja sdh stress ini ada  ctrl cp,tidak_stres
+asam lambung bikin gedek padahal ga makan aneh ga stres malah lagi bahagia eh malah kumat,tidak_stres
+bob binggu lucu ya tipe sopan sekali tapi dalamnya stress,tidak_stres
+anjir gw cape ketawa ya,tidak_stres
+stress anjir yamal maen na hade pisan,tidak_stres
+ngga semua orang gila kerja ky lu jd wajar dong diluar jam kerja ngga on hp,tidak_stres
+jujur kecewa bang why,tidak_stres
+tiap hari semangat buat membaca buku karena cuaca cerah,tidak_stres
+padahal mamaku udah semangat banget waktu ceritain scene min ha panggil suaminya yang ditebak seokhyung yeobo apa tidak ikut kecewa mamaku,tidak_stres
+dh lah gw stres ngobrol sm lu kak,tidak_stres
+vivi sayang gimana perasaan sekarang manis masih sedih,tidak_stres
+takut salkir,tidak_stres
+joss kamu kok keliatan bahagia banget sih itu gawin keliatannya udah cape ditambah ngantuk banget happy one monthsary,tidak_stres
+stress bgt bgst pngn jajan eskrim,tidak_stres
+gila emang teori soal enhypen ni keep them coming,tidak_stres
+pertandingan paling bikin stress,tidak_stres
+penuh energi tiap kali ngopi santai setelah keluarga,tidak_stres
+rasanya pengen berbagi cerita pas lagi teman-teman,tidak_stres
+aku kecewa sih di sini soalnya dia udah terima link co dan vidcon vidcon juga gaada masalah apaapa terus tibatiba cancel gitu aja dengan alasan duitnya udah kepake,tidak_stres
+kecewa cilok ga ada dmpun gak akan ku balas ya om,tidak_stres
+yuk no time to sedih ya kalau ngedrop gabisa ngejar ug perlu dikejar,tidak_stres
+gila w tidur  jam sampai lupa vote malam   karena kepala sakit bgtt,tidak_stres
+belajar sambil denger musik bikin ga pusing,tidak_stres
+gdm butuh org org gila seperti kita,tidak_stres
+saya masih sedih jgn direcokin dulu gatau kalo nanti bag bad back rilis mungkin sedikit ilang sedihnya y samasama c hebat bgt soale bubble sohee pun gak mempanmasih tetep nangis,tidak_stres
+seneng banget bisa dengerin musik bareng hari minggu,tidak_stres
+kompas tv lakukan phk besarbesaran ratusan karyawan dan beberapa rubrik terdampak presenter kompas tv menangis sedih saat mengumumkan penutupan rubrik kompas sport pagi,tidak_stres
+iya wey takut banget luck ku yg mana yg kesedot,tidak_stres
+tapi anjrit keren bgt barca dah walaupun agak stres,tidak_stres
+aku kecewa dia seringnya fotonya cuma foto apalah jalan doang trs gajelas kegelapan semua trs mak jreng muka dia aku lgsg nyesel buka instagram gakuat kebawa mimpi takut ih,tidak_stres
+pengen peluk tonkla kalo lagi sedih tong bisa nyari mark buat jadi sandaran tapi tonkla kalo sedih mau pergi kesiapa puk puk tonkla anak baik happy one monthsary,tidak_stres
+terpaksa jadi solo stan tahun ni stress,tidak_stres
+yeah sudah tidak ada tugas saatnya scroll twitter,tidak_stres
+tos buat part ngantukan kalau stres kayanya lebih banyak haha,tidak_stres
+yg msh suka sama si yanto perlu di pertanyakan alias lu semua gila,tidak_stres
+sedih banget tahu tek di blok m yang rasanya mirip banget tahu telor di malang tibatiba ga ada habis lebaran,tidak_stres
+sering bgt aku nanya ke salah satu warga basecamp gunung kalo pas aku lg naik mereka rata² mandi x apalagi gunung prau kawasan dieng dibawah mdpl tp dinginnya gila,tidak_stres
+nyaman rasanya bisa chat seru di tengah musik favorit,tidak_stres
+lupa ada pr untung bisa ngerjain pagi pagi,tidak_stres
+mimpi deisik konser depan rumah gwtapi mau nonton aja masa harus lewatin padang pasir dulubener konser dg perjalanan ter stress sampe ke mimpi,tidak_stres
+nyaman rasanya bisa ketawa di tengah hewan peliharaan,tidak_stres
+cape tapi seru tadi joging sama temen,tidak_stres
+takut kangen pelatnas pas di ic gw orangnya gampang gamon cak,tidak_stres
+aku bersyukur bisa terus nonton film walau pemandangan indah,tidak_stres
+sumpaa cok akuu cape mimpi kek gini trosss,tidak_stres
+nanem cabe susah banget cape apa karena aku yg gabisa ya,tidak_stres
+hai pembenci buangbuang energi percuma kalian si pembenci hatinya tersiksa terganggu kecewa dan sakit hati permanen derita lo sampai akhir hayat,tidak_stres
+seneng banget bisa belajar bareng pelajaran baru,tidak_stres
+gak sabar mau dengerin musik sama senyum orang tersayang,tidak_stres
+gak sabar mau main game sama musik favorit,tidak_stres
+temenku juga gtuu udh lost interest sma treasure aga sedih sihhh karna aku dket sma dia jga gr kita sma teume but walopun gtu klo aku cerita soal trejo dia masih suka excited,tidak_stres
+seru banget waktu ketawa sama hari minggu,tidak_stres
+kecewa bgt anjir si arul gatau aku jurusan apa fakmen,tidak_stres
+ciri ciri orang stress,tidak_stres
+tiap hari semangat buat berbagi cerita karena hari minggu,tidak_stres
+mikel arteta kecewa arsenal harusnya imbang lawan psg,tidak_stres
+ya allah semoga aku tetep waras buat selalu ada di jalur yg bnringet tujuan awal suka kpop buat pengalihan patah hati dan stress skripsi saat itu,tidak_stres
+dulu konsisten smpe dpt badge obsidian tp susah kena demotion zone mulu akhirnya ga peduli la dengan badge krn bikin stres jd skrg yg ptg streak nyala,tidak_stres
+nyaman rasanya bisa chat seru di tengah momen kecil,tidak_stres
+bang nino  is here kak aninn abang mau bgt kamu ajak nonton horor movie or thriller dgn mun yg mature ini siap ngasih kamu pelukan hangat kalau lagi takut,tidak_stres
+wah ini mah gua juga seng banget penghilang stres ini,tidak_stres
+takut ni yeeeeee,tidak_stres
+iyaa lagian war wer wor nggak ada manfaatnya cuma bikin stress dan capek aja jadi lebih baik gunain waktu buat hal lain aja,tidak_stres
+yuk rasa kecewa kita dijadikan satu kesatuan yang solid jangan ada yang kepecah belah naikin ht terus walau kemungkinannya kecil untuk didengar,tidak_stres
+Aku merasa sangat tertekan dengan pekerjaan,stres
+Aku baik-baik saja dan merasa tenang,tidak_stres
+Aku cemas dan tidak bisa tidur,stres
+Saya santai dan menikmati hari ini,tidak_stres
+Semua tugas menumpuk dan membuatku panik,stres
+Hari ini aku merasa bebas dan rileks,tidak_stres
+Aku khawatir tentang masa depan,stres
+Aku menikmati waktu bersama keluarga,tidak_stres
+Tekanan dari bos membuatku stres,stres
+Aku merasa damai saat berjalan di taman,tidak_stres
+Aku takut gagal dalam ujian ini,stres
+Saya bahagia bisa menyelesaikan pekerjaan tepat waktu,tidak_stres
+Saya merasa lelah dan terbebani,stres
+Hari ini sangat menyenangkan dan penuh tawa,tidak_stres
+Pikiran saya kacau karena masalah keuangan,stres
+Aku menikmati secangkir kopi di pagi hari,tidak_stres
+Saya merasa terjebak dalam rutinitas,stres
+Libur akhir pekan ini sangat menyegarkan,tidak_stres
+Aku gelisah memikirkan presentasi besok,stres
+Saya merasa puas dengan hasil kerjaku,tidak_stres
+Semua masalah sepertinya datang bersamaan,stres
+Aku senang bisa berkumpul dengan teman-teman,tidak_stres
+Saya merasa kewalahan dengan tanggung jawab,stres
+Hari ini aku merasa penuh energi,tidak_stres
+Aku takut kehilangan pekerjaan,stres
+Saya menikmati musik yang menenangkan,tidak_stres
+Pikiran saya dipenuhi kecemasan,stres
+Aku merasa santai setelah yoga,tidak_stres
+Saya merasa tertekan oleh ekspektasi orang lain,stres
+Hari ini aku merasa optimis dan bahagia,tidak_stres
+Aku sulit fokus karena banyak masalah,stres
+Saya menikmati pemandangan alam yang indah,tidak_stres
+Saya merasa terpojok oleh situasi ini,stres
+Aku merasa lega setelah menyelesaikan tugas,tidak_stres
+Pikiran negatif terus menghantuiku,stres
+Saya merasa tenang saat membaca buku,tidak_stres
+Aku stres memikirkan deadline proyek,stres
+Hari ini aku merasa penuh semangat,tidak_stres
+Saya merasa cemas tentang kesehatan keluarga,stres
+Aku menikmati waktu sendiri di rumah,tidak_stres
+Semua tanggung jawab membuatku lelah,stres
+Saya merasa bahagia melihat matahari terbenam,tidak_stres
+Aku khawatir tidak bisa memenuhi target,stres
+Hari ini aku merasa santai dan bebas,tidak_stres
+Saya merasa tertekan oleh konflik di kantor,stres
+Aku menikmati makan malam bersama keluarga,tidak_stres
+Pikiran saya penuh dengan kekhawatiran,stres
+Saya merasa damai saat meditasi,tidak_stres
+Aku merasa stres karena masalah pribadi,stres
+Hari ini aku merasa penuh harapan,tidak_stres
+"Chill banget hari ini, vibesnya asik!",tidak_stres
+"Nongkrong sama temen, seru abis!",tidak_stres
+"Jalan-jalan sore, mood langsung naik!",tidak_stres
+"Main game bareng squad, ketawa sampe lemes!",tidak_stres
+"Kerjaan selesai, happy kayak anak kecil!",tidak_stres
+"Nonton sunset, jiwa gue tenang banget!",tidak_stres
+"Weekend ini asik, rebahan full!",tidak_stres
+"Hasil kerja gue oke, bangga dong!",tidak_stres
+"Kumpul sama bestie, hati happy!",tidak_stres
+"Hari ini energi gue full, gaspol!",tidak_stres
+"Dengerin musik chill, hati adem!",tidak_stres
+"Yoga tadi pagi, badan enteng bro!",tidak_stres
+"Hari ini mood gue cakep, optimis!",tidak_stres
+"Nikmatin pemandangan gunung, damai banget!",tidak_stres
+"Tugas kelar, lega banget bro!",tidak_stres
+"Baca novel tadi malam, santuy abis!",tidak_stres
+"Hari ini gue semangat, gas terus!",tidak_stres
+"Rebahan di rumah, nikmatin me time!",tidak_stres
+"Liat matahari terbenam, hati happy!",tidak_stres
+"Hari ini santuy, bebas ribet!",tidak_stres
+"Makan bareng keluarga, hangat banget!",tidak_stres
+"Meditasi tadi pagi, jiwa gue tenang!",tidak_stres
+"Hari ini gue penuh harapan, bro!",tidak_stres
+"Nikmatin kopi pagi, suasana enak!",tidak_stres
+"Jalan kaki di taman, fresh banget!",tidak_stres
+"Nonton film komedi, ketawa ngakak!",tidak_stres
+"Hari ini gue rileks, no drama!",tidak_stres
+"Dengerin playlist favorit, mood naik!",tidak_stres
+"Main sama kucing, gemes banget!",tidak_stres
+"Hari ini cerah, hati gue juga!",tidak_stres
+"Nikmatin es krim, manisnya hidup!",tidak_stres
+"Baca komik, bikin ketawa sendiri!",tidak_stres
+"Olahraga pagi, badan segar bro!",tidak_stres
+"Nonton bintang malam ini, romantis!",tidak_stres
+"Hari ini gue santai, dunia aman!",tidak_stres
+"Ngobrol sama temen, waktu cepet banget!",tidak_stres
+"Nikmatin teh sore, relax abis!",tidak_stres
+"Main musik, jiwa gue hidup!",tidak_stres
+"Hari ini semua smooth, enak banget!",tidak_stres
+"Nonton video lucu, perut sakit ketawa!",tidak_stres
+"Jogging di pantai, vibesnya top!",tidak_stres
+"Masak resep baru, hasilnya oke!",tidak_stres
+"Hari ini gue happy, no overthinking!",tidak_stres
+"Dengerin burung pagi, damai banget!",tidak_stres
+"Nikmatin hujan dari jendela, cozy!",tidak_stres
+"Main board game sama keluarga, seru!",tidak_stres
+"Hari ini gue bebas, hidup enjoy!",tidak_stres
+"Nonton stand-up comedy, ngakak parah!",tidak_stres
+"Jalan-jalan di mall, window shopping asik!",tidak_stres
+"Nikmatin smoothie dingin, segar bro!",tidak_stres
+Hari ini mood gue on fire!,tidak_stres
+"Foto-foto pemandangan, hasilnya cakep!",tidak_stres
+"Ngobrol sama sahabat, hati ringan!",tidak_stres
+"Nikmatin angin sepoi-sepoi, enak banget!",tidak_stres
+"Main skateboard, adrenaline naik!",tidak_stres
+Hari ini gue cuma pengen santai!,tidak_stres
+"Nonton drama korea, baper tapi happy!",tidak_stres
+"Makan pizza bareng temen, puas banget!",tidak_stres
+"Hari ini semua chill, no pressure!",tidak_stres
+"Dengerin podcast, inspirasi datang!",tidak_stres
+"Berkebun pagi ini, terapi jiwa!",tidak_stres
+"Nikmatin malam minggu, vibesnya oke!",tidak_stres
+Hari ini gue cuma nikmatin hidup!,tidak_stres
+"Main gitar, lagu favorit bikin happy!",tidak_stres
+"Nonton sunrise, start hari dengan ciamik!",tidak_stres
+"Makan sushi, lidah gue dimanjain!",tidak_stres
+"Hari ini mood gue stabil, asik!",tidak_stres
+"Jalan-jalan sama anjing, gemes banget!",tidak_stres
+"Nikmatin bubble tea, manisnya pas!",tidak_stres
+"Main basket sama temen, seru bro!",tidak_stres
+"Hari ini gue full energi, gaspol!",tidak_stres
+"Nonton konser virtual, vibesnya dapet!",tidak_stres
+"Makan malam romantis, hati meleleh!",tidak_stres
+Hari ini gue cuma pengen rebahan!,tidak_stres
+"Dengerin jazz, suasana jadi chill!",tidak_stres
+"Foto selfie sama sunset, kece abis!",tidak_stres
+"Main puzzle, otak santai tapi aktif!",tidak_stres
+"Hari ini hidup gue balance, happy!",tidak_stres
+"Nikmatin camilan sambil nonton, top!",tidak_stres
+"Jalan-jalan di pasar malam, seru!",tidak_stres
+"Makan dessert, hidup terasa manis!",tidak_stres
+"Hari ini gue santai, dunia tenang!",tidak_stres
+"Main game online, menang terus bro!",tidak_stres
+"Nonton film action, adrenaline naik!",tidak_stres
+"Ngobrol sama keluarga, hangat banget!",tidak_stres
+Hari ini gue cuma nikmatin momen!,tidak_stres
+"Dengerin lagu throwback, nostalgia asik!",tidak_stres
+"Foto bunga di taman, mood naik!",tidak_stres
+"Main voli pantai, seru banget!",tidak_stres
+"Hari ini semua flow, enak banget!",tidak_stres
+"Nikmatin kopi di cafe, vibes cozy!",tidak_stres
+"Nonton kartun, ketawa kayak anak kecil!",tidak_stres
+"Makan bareng temen, happy abis!",tidak_stres
+"Hari ini gue santuy, no stress!",tidak_stres
+"Main catur, otak kerja tapi chill!",tidak_stres
+"Nikmatin es teh manis, segar bro!",tidak_stres
+"Jalan-jalan di hutan kota, fresh!",tidak_stres
+"Hari ini mood gue top, gas terus!",tidak_stres
+"Nonton dokumenter, dapet insight baru!",tidak_stres
+"Makan malam di tepi pantai, ciamik!",tidak_stres
+Hari ini hidup gue penuh warna!,tidak_stres
+"Dengerin lagu akustik, hati tenang!",tidak_stres
+"Foto candid sama temen, kece abis!",tidak_stres
+"Main sepeda sore ini, badan segar!",tidak_stres
+"Hari ini gue happy, no drama bro!",tidak_stres
+"Nikmatin es kopi, mood langsung naik!",tidak_stres
+"Nonton reality show, seru banget!",tidak_stres
+"Makan bareng pacar, hati berbunga!",tidak_stres
+"Hari ini gue santai, dunia aman!",tidak_stres
+"Main kartu sama keluarga, ketawa terus!",tidak_stres
+"Nikmatin jus buah, seger abis!",tidak_stres
+"Jalan-jalan di danau, damai banget!",tidak_stres
+"Hari ini semua oke, happy bro!",tidak_stres
+"Nonton video travel, pengen jalan-jalan!",tidak_stres
+"Makan steak, lidah gue dimanjain!",tidak_stres
+"Hari ini mood gue ceria, top!",tidak_stres
+"Dengerin lagu pop, goyang dikit!",tidak_stres
+"Foto pemandangan kota, aesthetic banget!",tidak_stres
+"Main futsal, seru sama temen!",tidak_stres
+"Hari ini gue rileks, no overthinking!",tidak_stres
+"Nikmatin teh tarik, enak bro!",tidak_stres
+"Nonton film romcom, baper tapi happy!",tidak_stres
+"Makan malam sama sahabat, asik!",tidak_stres
+Hari ini hidup gue santuy abis!,tidak_stres
+"Main drum, jiwa musik gue hidup!",tidak_stres
+"Nikmatin sunrise di bukit, ciamik!",tidak_stres
+"Makan ramen, slurp-nya bikin happy!",tidak_stres
+"Hari ini gue full senyum, bro!",tidak_stres
+"Dengerin lagu reggae, vibes santai!",tidak_stres
+"Foto street photography, kece abis!",tidak_stres
+"Main tenis, badan segar bro!",tidak_stres
+"Hari ini semua chill, no ribet!",tidak_stres
+"Nonton vlog kuliner, laper tapi happy!",tidak_stres
+"Makan dessert coklat, manisnya pas!",tidak_stres
+"Hari ini gue santai, enjoy hidup!",tidak_stres
+"Main ukulele, lagu ceria bikin mood!",tidak_stres
+"Nikmatin angin pantai, damai bro!",tidak_stres
+"Jalan-jalan di rooftop, view cakep!",tidak_stres
+"Hari ini gue happy, no stress!",tidak_stres
+"Dengerin lagu klasik, hati adem!",tidak_stres
+"Foto sunset di pantai, epic banget!",tidak_stres
+"Main bulutangkis, seru bareng temen!",tidak_stres
+"Hari ini semua smooth, asik bro!",tidak_stres
+"Nikmatin kopi latte, vibes cozy!",tidak_stres
+"Nonton film animasi, happy kayak anak!",tidak_stres
+"Makan bareng keluarga, hangat abis!",tidak_stres
+"Hari ini gue santuy, dunia tenang!",tidak_stres
+"Main monopoly, ketawa sampe lemes!",tidak_stres
+"Nikmatin milkshake, seger banget!",tidak_stres
+"Jalan-jalan di pedesaan, fresh bro!",tidak_stres
+"Hari ini mood gue cakep, gaspol!",tidak_stres
+"Nonton talkshow, inspirasi datang!",tidak_stres
+"Makan seafood, lidah gue bahagia!",tidak_stres
+Hari ini hidup gue penuh tawa!,tidak_stres
+"Dengerin lagu indie, vibesnya oke!",tidak_stres
+"Foto candid di taman, kece abis!",tidak_stres
+"Main sepatu roda, seru banget!",tidak_stres
+"Hari ini gue rileks, no drama!",tidak_stres
+"Nikmatin es kelapa, segar bro!",tidak_stres
+"Nonton film petualangan, seru abis!",tidak_stres
+"Makan malam sama pacar, romantis!",tidak_stres
+"Hari ini gue santai, happy bro!",tidak_stres
+"Main piano, lagu lembut bikin tenang!",tidak_stres
+"Nikmatin sunrise di pantai, ciamik!",tidak_stres
+"Makan burger, puas banget bro!",tidak_stres
+"Hari ini mood gue on, gas terus!",tidak_stres
+"Dengerin lagu akustik, hati ringan!",tidak_stres
+"Foto pemandangan malam, aesthetic!",tidak_stres
+"Main bola, seru bareng temen!",tidak_stres
+"Hari ini semua flow, enak banget!",tidak_stres
+"Nikmatin cappuccino, cozy abis!",tidak_stres
+"Nonton film superhero, adrenaline naik!",tidak_stres
+"Makan bareng sahabat, happy abis!",tidak_stres
+"Hari ini gue santuy, no pressure!",tidak_stres
+"Main kartu uno, ketawa ngakak!",tidak_stres
+"Nikmatin jus jeruk, seger bro!",tidak_stres
+"Jalan-jalan di taman kota, fresh!",tidak_stres
+"Hari ini mood gue top, happy!",tidak_stres
+"Nonton video musik, vibesnya cakep!",tidak_stres
+"Makan dessert es krim, manisnya pas!",tidak_stres
+"Hari ini gue enjoy, hidup santai!",tidak_stres
+"Dengerin lagu chillhop, mood naik!",tidak_stres
+"Foto candid di pantai, kece abis!",tidak_stres
+"Main voli, seru bareng squad!",tidak_stres
+"Hari ini semua oke, no ribet!",tidak_stres
+"Nikmatin teh hijau, relax banget!",tidak_stres
+"Nonton film keluarga, hangat abis!",tidak_stres
+"Makan malam di rooftop, view cakep!",tidak_stres
+"Hari ini gue happy, dunia tenang!",tidak_stres
+"Main game retro, nostalgia banget!",tidak_stres
+"Nikmatin es lemon, segar bro!",tidak_stres
+"Jalan-jalan di bukit, damai abis!",tidak_stres
+"Hari ini mood gue ceria, gaspol!",tidak_stres
+"Nonton vlog travel, inspirasi jalan!",tidak_stres
+"Makan pasta, lidah gue dimanjain!",tidak_stres
+Hari ini hidup gue penuh senyum!,tidak_stres
+"Dengerin lagu pop, goyang dikit!",tidak_stres
+"Foto sunset di bukit, epic bro!",tidak_stres
+"Main basket sore ini, seru banget!",tidak_stres
+"Hari ini gue santai, no overthinking!",tidak_stres
+"Nikmatin matcha latte, cozy abis!",tidak_stres
+"Nonton film komedi, ngakak parah!",tidak_stres
+"Makan bareng temen, happy bro!",tidak_stres
+"Hari ini gue santuy, hidup enjoy!",tidak_stres
+"Main gitar akustik, jiwa tenang!",tidak_stres
+"Nikmatin sunrise di gunung, ciamik!",tidak_stres
+"Makan taco, rasanya top banget!",tidak_stres
+"Hari ini mood gue cakep, gas terus!",tidak_stres
+"Dengerin lagu lo-fi, chill abis!",tidak_stres
+"Foto candid di kota, kece bro!",tidak_stres
+"Main skateboard, seru banget!",tidak_stres
+"Hari ini semua smooth, happy bro!",tidak_stres
+"Nikmatin es kopi susu, seger!",tidak_stres
+"Nonton film fantasi, imajinasi liar!",tidak_stres
+"Makan malam sama keluarga, hangat!",tidak_stres
+"Hari ini gue santai, no stress!",tidak_stres
+"Main catur online, otak kerja chill!",tidak_stres
+"Nikmatin jus mangga, manisnya pas!",tidak_stres
+"Jalan-jalan di tepi sungai, fresh!",tidak_stres
+"Hari ini mood gue on fire, bro!",tidak_stres
+"Nonton video lucu, ketawa ngakak!",tidak_stres
+"Makan dessert cheesecake, enak abis!",tidak_stres
+"Hari ini gue enjoy, hidup santuy!",tidak_stres
+"Dengerin lagu akustik, hati adem!",tidak_stres
+"Foto pemandangan sore, aesthetic!",tidak_stres
+"Main futsal malam ini, seru bro!",tidak_stres
+"Hari ini semua chill, no drama!",tidak_stres
+"Nikmatin teh chamomile, relax bro!",tidak_stres
+"Nonton film petualangan, seru abis!",tidak_stres
+"Makan bareng pacar, hati berbunga!",tidak_stres
+"Hari ini gue happy, dunia aman!",tidak_stres
+"Main game puzzle, otak santai!",tidak_stres
+"Nikmatin es teh lemon, seger banget!",tidak_stres
+"Jalan-jalan di taman bunga, fresh!",tidak_stres
+"Hari ini mood gue ceria, top!",tidak_stres
+"Nonton konser online, vibesnya oke!",tidak_stres
+"Makan dessert pudding, manisnya pas!",tidak_stres
+"Hari ini gue santuy, hidup enjoy!",tidak_stres
+"Dengerin lagu jazz, chill abis!",tidak_stres
+"Foto candid di hutan, kece bro!",tidak_stres
+"Main voli pantai, seru banget!",tidak_stres
+"Hari ini semua flow, happy bro!",tidak_stres
+"Nikmatin kopi hitam, vibes cozy!",tidak_stres
+"Nonton film klasik, nostalgia asik!",tidak_stres
+"Makan malam sama sahabat, hangat!",tidak_stres
+"Hari ini gue santai, no ribet!",tidak_stres
+"Main kartu remi, ketawa terus!",tidak_stres
+"Nikmatin jus apel, seger bro!",tidak_stres
+"Jalan-jalan di tepi pantai, damai!",tidak_stres
+"Hari ini mood gue top, gaspol!",tidak_stres
+"Tugas numpuk, ujian besok, otakku udah panas!",stres
+"Orang tua ngomel mulu, capek banget dengernya!",stres
+"Cemas banget, takut ga diterima temen di kelas baru",stres
+"Nilai jelek lagi, mama marah, gue stres berat!",stres
+"Pikiran chaos, ga bisa tidur mikirin masa depan",stres
+"Temen ngejek di grup, hati gue sakit banget",stres
+"Ujian matematika besok, takut banget gagal lagi!",stres
+"Keluarga ribut mulu, pengen kabur dari rumah!",stres
+Deadline tugas bikin gue pengen nangis aja,stres
+"Ga bisa fokus, otak penuh sama pikiran negatif",stres
+"Takut ga lolos SBMPTN, pressure dari ortu gede!",stres
+"Temen ghosting, gue merasa ga dianggep!",stres
+"Capek banget, semua orang ekspektasi tinggi sama gue",stres
+"Pengen nangis, nilai ujian jelek, takut dimarahin",stres
+"Ga bisa ngomong di depan kelas, takut diejek",stres
+"Ortu bandingin gue sama sepupu, sakit hati banget",stres
+"Ujian numpuk, tidur cuma 3 jam, stres abis!",stres
+"Temen ngomongin di belakang, gue jadi parno!",stres
+"Pengen teriak, capek sama drama keluarga!",stres
+"Ga bisa nyanyi di panggung, takut dikira jelek",stres
+"Dompet tipis, ortu marah, gue bingung banget",stres
+"Semua tugas datang barengan, otakku overload!",stres
+"Takut ga punya temen di sekolah baru, cemas!",stres
+"Ortu bilang gue ga berguna, hati gue hancur",stres
+"Ujian besok, tapi pikiran gue ga bisa tenang",stres
+"Temen unfollow, gue merasa ga disukain lagi",stres
+"Capek banget, semua orang judge penampilan gue",stres
+"Tugas presentasi bikin jantungan, takut salah!",stres
+"Keluarga ribut soal duit, gue ga tahu harus apa",stres
+"Pengen nangis, ga bisa ikut lomba karna takut gagal",stres
+"Pikiran negatif mulu, kayak ga ada harapan",stres
+"Ortu maksa masuk jurusan IPA, padahal gue ga suka!",stres
+"Tugas numpuk, temen ga bantu, stres banget!",stres
+"Takut ga diterima kuliah, pressure dari ortu parah",stres
+"Temen ngebully di WA, gue merasa sendirian",stres
+"Capek banget, ga bisa penuhin ekspektasi ortu",stres
+"Ujian online besok, takut sinyal jelek, stres!",stres
+"Ga bisa ngomong sama crush, takut dikira aneh",stres
+"Ortu marah gara-gara nilai, gue pengen kabur",stres
+"Tugas kelompok ga selesai, temen males semua!",stres
+"Takut ga punya temen di kampus, cemas banget",stres
+"Pikiran gue kacau, ga tahu mau jadi apa nanti",stres
+"Temen ngomongin di belakang, sakit hati bro!",stres
+"Ujian fisika susah banget, takut ga lulus!",stres
+"Keluarga ribut, gue cuma bisa diam di kamar",stres
+"Deadline bikin gue ga bisa tidur, stres abis!",stres
+"Takut ga diterima kerja paruh waktu, cemas!",stres
+"Ortu bilang gue ga cukup pinter, hati gue perih",stres
+"Temen ga ngajak hangout, gue merasa dikucilkan",stres
+"Capek banget, semua orang ekspektasi gue perfect",stres
+"Ujian besok, tapi otak gue blank, panik!",stres
+"Takut salah ngomong di depan kelas, jantungan!",stres
+"Ortu bandingin gue sama adik, sakit hati banget",stres
+"Tugas numpuk, ga ada waktu buat santai!",stres
+"Temen ngejek outfit gue, parno buat ke sekolah",stres
+"Keluarga berantem, gue cuma pengen nangis",stres
+"Pengen ikut lomba, tapi takut ga cukup bagus",stres
+Pikiran negatif bikin gue ga bisa fokus belajar,stres
+"Ortu maksa masuk universitas top, stres berat!",stres
+"Tugas kelompok chaos, temen ga serius!",stres
+"Takut ga lolos ujian nasional, cemas banget",stres
+"Temen ngomongin rahasia gue, sakit hati bro!",stres
+"Capek banget, semua orang judge prestasi gue",stres
+"Ujian matematika susah, takut ga lulus lagi!",stres
+"Keluarga ribut soal warisan, gue bingung!",stres
+Deadline tugas bikin gue pengen teriak!,stres
+"Takut ga punya temen di kelas baru, cemas!",stres
+"Ortu bilang gue ga bisa apa-apa, hati hancur",stres
+"Temen ga bales chat, gue merasa ga dianggep",stres
+"Capek banget, ekspektasi ortu bikin sesak",stres
+"Ujian besok, tapi pikiran gue kacau balau",stres
+"Takut diejek pas presentasi, jantungan bro!",stres
+"Ortu bandingin gue sama tetangga, sakit hati",stres
+"Tugas numpuk, ga bisa tidur, stres abis!",stres
+"Temen ngebully di sosmed, gue ga kuat!",stres
+"Keluarga berantem, gue cuma bisa nangis",stres
+"Pengen ikut audisi, tapi takut ga diterima",stres
+Pikiran negatif bikin gue ga percaya diri,stres
+"Ortu maksa ikut les, padahal gue capek!",stres
+"Tugas kelompok bikin stres, temen ga kerja!",stres
+"Takut ga lolos masuk SMA favorit, cemas!",stres
+"Temen nyebarin gosip, gue merasa sendirian",stres
+"Capek banget, semua orang judge nilai gue",stres
+"Ujian kimia susah, takut ga lulus bro!",stres
+"Keluarga ribut soal duit, gue ga tahu apa",stres
+"Deadline bikin gue ga bisa santai, stres!",stres
+"Takut ga diterima geng keren, cemas banget",stres
+"Ortu bilang gue ga cukup berusaha, sakit!",stres
+"Temen ghosting, gue merasa ga penting lagi",stres
+"Capek banget, semua orang pengen gue perfect",stres
+"Ujian besok, tapi otak gue ga bisa fokus",stres
+"Takut salah ngomong di debat, jantungan!",stres
+"Ortu bandingin gue sama temen, hati perih",stres
+"Tugas numpuk, ga ada waktu buat diri sendiri",stres
+"Temen ngejek di grup WA, gue ga kuat!",stres
+"Keluarga ribut, gue pengen kabur aja",stres
+"Pengen ikut lomba tari, tapi takut gagal",stres
+Pikiran negatif bikin gue ga bisa tidur,stres
+"Ortu maksa masuk jurusan kedokteran, stres!",stres
+"Tugas kelompok bikin pusing, temen males!",stres
+"Takut ga lolos tryout, pressure ortu gede!",stres
+"Temen nyebarin rahasia, sakit hati banget",stres
+"Capek banget, semua orang judge penampilan",stres
+Ujian fisika bikin kepala mau pecah!,stres
+"Keluarga berantem, gue cuma bisa diam",stres
+Deadline tugas bikin gue pengen nangis,stres
+Takut ga punya temen di acara sekolah,stres
+"Ortu bilang gue ga cukup pinter, hati sakit",stres
+"Temen unfollow, gue merasa ga disukain",stres
+"Capek banget, ekspektasi orang bikin stres",stres
+"Ujian besok, tapi gue ga bisa konsen",stres
+"Takut diejek pas nyanyi, jantungan bro!",stres
+"Ortu bandingin gue sama adik, sakit hati",stres
+"Tugas numpuk, ga bisa santai sama sekali",stres
+"Temen ngejek di IG, gue parno banget!",stres
+"Keluarga ribut, gue pengen nangis di kamar",stres
+"Pengen ikut lomba debat, tapi takut kalah",stres
+Pikiran negatif bikin gue ga semangat,stres
+"Ortu maksa masuk universitas top, capek!",stres
+"Tugas kelompok chaos, temen ga bantu!",stres
+"Takut ga lolos ujian, cemas banget bro!",stres
+"Temen ngomongin di belakang, hati gue perih",stres
+"Capek banget, semua orang judge prestasi",stres
+"Ujian matematika susah, takut ga lulus!",stres
+"Keluarga ribut soal duit, gue bingung!",stres
+"Deadline bikin gue ga bisa tidur, stres!",stres
+"Takut ga diterima temen baru, cemas parah",stres
+"Ortu bilang gue ga cukup usaha, sakit hati",stres
+"Temen ghosting, gue merasa ga dianggep",stres
+"Capek banget, ekspektasi ortu bikin sesak",stres
+"Ujian besok, tapi pikiran gue kacau",stres
+"Takut salah ngomong di presentasi, panik!",stres
+"Ortu bandingin gue sama tetangga, hati sakit",stres
+"Tugas numpuk, ga ada waktu buat santai",stres
+"Temen ngebully di sosmed, gue ga kuat!",stres
+"Keluarga berantem, gue cuma bisa nangis",stres
+"Pengen ikut lomba, tapi takut ga bagus",stres
+Pikiran negatif bikin gue ga bisa fokus,stres
+"Ortu maksa masuk jurusan teknik, stres!",stres
+"Tugas kelompok bikin pusing, temen males!",stres
+"Takut ga lolos masuk SMA, cemas banget",stres
+"Temen nyebarin gosip, gue merasa sendirian",stres
+"Capek banget, semua orang judge nilai gue",stres
+"Ujian kimia susah, takut ga lulus bro!",stres
+"Keluarga ribut soal warisan, gue ga tahu apa",stres
+Deadline tugas bikin gue pengen teriak!,stres
+"Takut ga punya temen di kelas baru, cemas!",stres
+"Ortu bilang gue ga cukup berusaha, hati perih",stres
+"Temen unfollow, gue merasa ga disukain",stres
+"Capek banget, ekspektasi orang bikin stres",stres
+"Ujian besok, tapi otak gue blank, panik!",stres
+"Takut diejek pas presentasi, jantungan!",stres
+"Ortu bandingin gue sama sepupu, sakit hati",stres
+"Tugas numpuk, ga bisa tidur, stres abis!",stres
+"Temen ngejek di grup WA, gue parno!",stres
+"Keluarga ribut, gue pengen kabur aja",stres
+"Pengen ikut lomba tari, tapi takut gagal",stres
+Pikiran negatif bikin gue ga percaya diri,stres
+"Ortu maksa masuk jurusan kedokteran, capek!",stres
+Tugas kelompok bikin stres temen ga kerja!,stres
+"Takut ga lolos tryout, pressure ortu gede!",stres
+"Temen nyebarin rahasia, sakit hati banget",stres
+"Capek banget, semua orang judge penampilan",stres
+Ujian fisika bikin kepala mau pecah!,stres
+"Keluarga berantem, gue cuma bisa diam",stres
+Deadline tugas bikin gue pengen nangis,stres
+Takut ga punya temen di acara sekolah,stres
+"Ortu bilang gue ga cukup pinter, hati sakit",stres
+"Temen ghosting, gue merasa ga penting lagi",stres
+"Capek banget, ekspektasi ortu bikin sesak",stres
+"Ujian besok, tapi pikiran gue kacau",stres
+"Takut salah ngomong di debat, jantungan!",stres
+"Ortu bandingin gue sama adik, hati perih",stres
+"Tugas numpuk, ga ada waktu buat diri sendiri",stres
+"Temen ngejek di IG, gue parno banget!",stres
+"Keluarga ribut, gue pengen nangis di kamar",stres
+"Pengen ikut lomba debat, tapi takut kalah",stres
+Pikiran negatif bikin gue ga semangat,stres
+"Ortu maksa masuk universitas top, stres!",stres
+"Tugas kelompok chaos, temen ga bantu!",stres
+"Takut ga lolos ujian nasional, cemas bro!",stres
+"Temen ngomongin di belakang, hati gue perih",stres
+"Capek banget, semua orang judge prestasi",stres
+"Ujian matematika susah, takut ga lulus!",stres
+"Keluarga ribut soal duit, gue bingung!",stres
+"Deadline bikin gue ga bisa tidur, stres!",stres
+"Takut ga diterima temen baru, cemas parah",stres
+"Ortu bilang gue ga cukup usaha, sakit hati",stres
+"Temen ghosting, gue merasa ga dianggep",stres
+"Capek banget, ekspektasi orang bikin sesak",stres
+"Ujian besok, tapi otak gue ga bisa fokus",stres
+"Takut salah ngomong di presentasi, panik!",stres
+"Ortu bandingin gue sama tetangga, hati sakit",stres
+"Tugas numpuk, ga ada waktu buat santai",stres
+"Temen ngebully di sosmed, gue ga kuat!",stres
+"Keluarga berantem, gue cuma bisa nangis",stres
+"Pengen ikut lomba, tapi takut ga bagus",stres
+Pikiran negatif bikin gue ga bisa fokus,stres
+"Ortu maksa masuk jurusan teknik, stres!",stres
+"Tugas kelompok bikin pusing, temen males!",stres
+"Takut ga lolos masuk SMA, cemas banget",stres
+"Temen nyebarin gosip, gue merasa sendirian",stres
+"Capek banget, semua orang judge nilai gue",stres
+"Ujian kimia susah, takut ga lulus bro!",stres
+"Keluarga ribut soal warisan, gue ga tahu apa",stres
+Deadline tugas bikin gue pengen teriak!,stres
+"Takut ga punya temen di kelas baru, cemas!",stres
+"Ortu bilang gue ga cukup berusaha, hati perih",stres
+"Temen unfollow, gue merasa ga disukain",stres
+"Capek banget, ekspektasi orang bikin stres",stres
+"Ujian besok, tapi otak gue blank, panik!",stres
+"Takut diejek pas presentasi, jantungan!",stres
+"Ortu bandingin gue sama sepupu, sakit hati",stres
+"Tugas numpuk, ga bisa tidur, stres abis!",stres
+"Temen ngejek di grup WA, gue parno!",stres
+"Keluarga ribut, gue pengen kabur aja",stres
+"Pengen ikut lomba tari, tapi takut gagal",stres
+Pikiran negatif bikin gue ga percaya diri,stres
+"Ortu maksa masuk jurusan kedokteran, capek!",stres
+"Tugas kelompok bikin stres, temen ga kerja!",stres
+"Takut ga lolos tryout, pressure ortu gede!",stres
+"Temen nyebarin rahasia, sakit hati banget",stres
+"Capek banget, semua orang judge penampilan",stres
+Ujian fisika bikin kepala mau pecah!,stres
+"Keluarga berantem, gue cuma bisa diam",stres
+Deadline tugas bikin gue pengen nangis,stres
+Takut ga punya temen di acara sekolah,stres
+"Ortu bilang gue ga cukup pinter, hati sakit",stres
+"Temen ghosting, gue merasa ga penting lagi",stres
+"Capek banget, ekspektasi ortu bikin sesak",stres
+"Ujian besok, tapi pikiran gue kacau",stres
+"Takut salah ngomong di debat, jantungan!",stres
+"Ortu bandingin gue sama adik, hati perih",stres
+"Tugas numpuk, ga ada waktu buat diri sendiri",stres
+"Temen ngejek di IG, gue parno banget!",stres
+"Keluarga ribut, gue pengen nangis di kamar",stres
+"Pengen ikut lomba debat, tapi takut kalah",stres
+Pikiran negatif bikin gue ga semangat,stres
+"Ortu maksa masuk universitas top, stres!",stres
+"Tugas kelompok chaos, temen ga bantu!",stres
+"Takut ga lolos ujian nasional, cemas bro!",stres
+"Temen ngomongin di belakang, hati gue perih",stres
+"Capek banget, semua orang judge prestasi",stres
+"Ujian matematika susah, takut ga lulus!",stres
+"Keluarga ribut soal duit, gue bingung!",stres
+"Deadline bikin gue ga bisa tidur, stres!",stres
+"Takut ga diterima temen baru, cemas parah",stres
+"Ortu bilang gue ga cukup usaha, sakit hati",stres
+"Temen ghosting, gue merasa ga dianggep",stres
+"Capek banget, ekspektasi orang bikin sesak",stres
