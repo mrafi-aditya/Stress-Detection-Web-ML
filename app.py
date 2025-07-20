@@ -115,6 +115,16 @@ def classify_tweets_from_csv(uploaded_file, hf_repo="aditonomy/stres-detection-i
     df["similarity_score"] = calculate_similarity_score(df, tokenizer, "indobenchmark/indobert-base-p1")
     return df
 
+st.markdown("""
+    ℹ️ **Belum punya file CSV tweet?**
+
+    Kamu bisa gunakan alat bantu crawling tweet di Google Colab berikut:
+
+    👉 [Buka Colab: Crawling Tweet](https://colab.research.google.com/drive/13k_4n4dTa68h7PKUY2lt-eZicy81zCLt?copy)
+
+    Setelah selesai crawling, kamu akan mendapatkan file `.csv` yang bisa diupload ke sini.
+    """)
+
 # --- Upload dan Analisis ---
 uploaded_file = st.file_uploader("📂 Upload file CSV yang berisi kolom `full_text`", type=["csv"])
 
