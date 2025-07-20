@@ -1,6 +1,9 @@
 import streamlit as st
 import pandas as pd
+import os
 import subprocess
+import time
+import papermill as pm  # 🔄 Tambahkan papermill
 
 st.set_page_config(page_title="Deteksi Stres dari Tweet", layout="centered")
 
@@ -42,30 +45,52 @@ if st.button("🔍 Analisis Tweet"):
         username = username.strip().replace("@", "")
         st.info(f"🔁 Menganalisis tweet dari **@{username}**...")
 
-        # Simpan ke username.txt
+        # Simpan username
         with open("username.txt", "w") as f:
             f.write(username)
 
-        # Jalankan crawling
-        with st.spinner("Mengambil tweet..."):
-            subprocess.run([
-                "jupyter", "nbconvert", "--to", "notebook", "--execute",
-                "crawling.ipynb", "--output", "executed_crawling.ipynb"
-            ])
+        # Hapus file lama (jika ada)
+        hasil_path = "hasil/hasil_analisis.csv"
+        if os.path.exists(hasil_path):
+            os.remove(hasil_path)
+
+        # Jalankan crawling.ipynb pakai papermill
+        with st.spinner("🐦 Mengambil tweet... (bisa makan waktu 1-2 menit)"):
+            try:
+                pm.execute_notebook(
+                    input_path="crawling.ipynb",
+                    output_path="executed_crawling.ipynb",
+                    parameters={}
+                )
+            except Exception as e:
+                st.error(f"❌ Gagal menjalankan notebook crawling.ipynb: {e}")
+                st.stop()
 
         # Jalankan analisis
-        with st.spinner("Menganalisis stres..."):
-            subprocess.run([
-                "python", "classify_tweets.py"
-            ])
+        with st.spinner("🔬 Menganalisis stres..."):
+            try:
+                result = subprocess.run(
+                    ["python", "classify_tweets.py"],
+                    capture_output=True,
+                    text=True
+                )
+                if result.returncode != 0:
+                    st.error("❌ Gagal saat eksekusi classify_tweets.py")
+                    st.text(result.stderr)
+                    st.stop()
+            except Exception as e:
+                st.error(f"Gagal menjalankan classify_tweets.py: {e}")
+                st.stop()
 
-        # --- Baca CSV Hasil ---
+        # Baca hasil
+        if not os.path.exists(hasil_path):
+            st.error("❌ Hasil analisis tidak ditemukan.")
+            st.stop()
+
         try:
-            df = pd.read_csv("hasil/hasil_analisis.csv")
-
+            df = pd.read_csv(hasil_path)
             st.success("✅ Analisis selesai!")
 
-            # Tampilkan tabel tweet dan hasilnya
             st.subheader("📋 Tabel Hasil Deteksi")
             st.dataframe(df[["clean_text", "label", "similarity_score"]].rename(columns={
                 "clean_text": "Tweet",
@@ -73,17 +98,14 @@ if st.button("🔍 Analisis Tweet"):
                 "similarity_score": "Similarity"
             }))
 
-            # Hitung dan tampilkan ringkasan
+            # Ringkasan
             total = len(df)
             stress_count = (df["label"] == "stres").sum()
             non_stress_count = total - stress_count
             stress_pct = (stress_count / total) * 100
             non_stress_pct = 100 - stress_pct
 
-            if stress_pct >= 50:
-                conclusion = "Stres"
-            else:
-                conclusion = "Tidak Stres"
+            conclusion = "Stres" if stress_pct >= 50 else "Tidak Stres"
 
             st.subheader("📊 Ringkasan Analisis")
             st.markdown(f"- Jumlah Tweet: **{total}**")
