@@ -1,6 +1,7 @@
-flask
-pandas
-scikit-learn
-jupyter
+streamlit
 torch
-papermill
+transformers
+scikit-learn
+pandas
+numpy
+huggingface_hub
